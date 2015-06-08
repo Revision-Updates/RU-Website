@@ -104,8 +104,8 @@
 										- B1 Revision (4th June 2015; 15:30-16:30; L12) <span class="icon fa-check-square-o"></span> <br />
 										- B1 Revision (5th June 2015; 09:00-11:30; L12) <span class="icon fa-check-square-o"></span> <br />
 										- Maths Revision (6th June 2015; 09:30-14:30) <span class="icon fa-check-square-o"></span> <br />
-										- Maths Revision (7th June 2015; 09:30-12:30) <span class="icon fa-square-o"></span> <br />
-										- C1 Revision (8th June 2015; 15:30-16:30; L12) <span class="icon fa-square-o"></span> <br />
+										- Maths Revision (7th June 2015; 09:30-12:30) <span class="icon fa-check-square-o"></span> <br />
+										- C1 Revision (8th June 2015; 15:30-16:30; L12) <span class="icon fa-check-square-o"></span> <br />
 										- C1 Revision (9th June 2015; 09:00-11:30; L12) <span class="icon fa-square-o"></span> <br />
 										- P1 Revision (11th June 2015; 15:30-16:30; L12) <span class="icon fa-square-o"></span> <br />
 										- P1 Revision (12th June 2015; 09:00-11:30; L12) <span class="icon fa-square-o"></span> <br />
@@ -225,11 +225,13 @@
 						<li><a href="http://revisionupdates.info/fb" class="icon circle fa-facebook"><span class="label">Facebook</span></a></li>
 						<li><a href="http://revisionupdates.info/ambassadors" class="icon circle fa-slack"><span class="label">Slack</span></a></li>
 						<li><a href="http://revisionupdates.info/github" class="icon circle fa-github"><span class="label">Github</span></a></li>
-						<li><a href="mail-to:hello@revisionupdates.info" class="icon circle fa-envelope-o"><span class="label">Email</span></a></li>
+						<li><a href="mailto:hello@revisionupdates.info" class="icon circle fa-envelope-o"><span class="label">Email</span></a></li>
 					</ul>
 
 					<ul class="copyright">
-						<li>&copy; Revision Updates 2015.</li><li>Design: <a href="http://sammyherring.co.uk">Sammy Herring</a></li>
+						<li>
+							<?php include('../footer.php'); ?>					
+						</li>
 					</ul>
 
 				</footer>

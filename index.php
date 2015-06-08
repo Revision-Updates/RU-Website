@@ -19,6 +19,7 @@
   		ga('send', 'pageview');
 
 		</script>
+		<link rel="shortcut icon" href="favicon.ico"> 
 	</head>
 	<body class="loading">
 		<div id="wrapper">
@@ -39,14 +40,14 @@
 								<li><a href="http://revisionupdates.info/fb" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
 								<li><a href="http://revisionupdates.info/ambassadors" class="icon fa-slack"><span class="label">Slack</span></a></li>
 								<li><a href="http://revisionupdates.info/github" class="icon fa-github"><span class="label">Github</span></a></li>
-								<li><a href="mail-to:hello@revisionupdates.info" class="icon fa-envelope-o"><span class="label">Email</span></a></li>
+								<li><a href="mailto:hello@revisionupdates.info" class="icon fa-envelope-o"><span class="label">Email</span></a></li>
 							</ul>
 						</nav>
 					</header>
 
 				<!-- Footer -->
 					<footer id="footer">
-						<span class="copyright">&copy; Revision Updates 2015. Design: <a href="http://sammyherring.co.uk">Sammy Herring</a>.</span>
+						<span class="copyright"><?php include('footer.php'); ?></span>
 					</footer>
 
 			</div>

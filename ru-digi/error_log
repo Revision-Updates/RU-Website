@@ -1,0 +1,9 @@
+[07-Jun-2015 15:56:43 America/New_York] PHP Warning:  include(./footer.php): failed to open stream: No such file or directory in /home/revisionupdates/public_html/ru-digi/index.php on line 233
+[07-Jun-2015 15:56:43 America/New_York] PHP Warning:  include(./footer.php): failed to open stream: No such file or directory in /home/revisionupdates/public_html/ru-digi/index.php on line 233
+[07-Jun-2015 15:56:43 America/New_York] PHP Warning:  include(): Failed opening './footer.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/revisionupdates/public_html/ru-digi/index.php on line 233
+[07-Jun-2015 15:57:03 America/New_York] PHP Warning:  include(./footer.php): failed to open stream: No such file or directory in /home/revisionupdates/public_html/ru-digi/index.php on line 233
+[07-Jun-2015 15:57:03 America/New_York] PHP Warning:  include(./footer.php): failed to open stream: No such file or directory in /home/revisionupdates/public_html/ru-digi/index.php on line 233
+[07-Jun-2015 15:57:03 America/New_York] PHP Warning:  include(): Failed opening './footer.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/revisionupdates/public_html/ru-digi/index.php on line 233
+[07-Jun-2015 15:57:12 America/New_York] PHP Warning:  include(.../footer.php): failed to open stream: No such file or directory in /home/revisionupdates/public_html/ru-digi/index.php on line 233
+[07-Jun-2015 15:57:12 America/New_York] PHP Warning:  include(.../footer.php): failed to open stream: No such file or directory in /home/revisionupdates/public_html/ru-digi/index.php on line 233
+[07-Jun-2015 15:57:12 America/New_York] PHP Warning:  include(): Failed opening '.../footer.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/revisionupdates/public_html/ru-digi/index.php on line 233
