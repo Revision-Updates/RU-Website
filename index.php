@@ -31,23 +31,19 @@
 					<header id="header">
 						<h1>Revision Updates</h1>
 						<p><a href="http://revisionupdates.info/releases">RU Releases</a> &nbsp;&bull;&nbsp; <a href="http://revisionupdates.info/ru-digi">RU Digi Calendar</a> &nbsp;&bull;&nbsp; <a href="http://revisionupdates.info/ambassadors">Ambassadors</a></p>
-						<div id="openModal" class="modalDialog">
-	
-						</div>
 						<nav>
 							<ul>
-								<li><a href="http://revisionupdates.info/twitter" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
-								<li><a href="http://revisionupdates.info/fb" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
-								<li><a href="http://revisionupdates.info/ambassadors" class="icon fa-slack"><span class="label">Slack</span></a></li>
-								<li><a href="http://revisionupdates.info/github" class="icon fa-github"><span class="label">Github</span></a></li>
-								<li><a href="mailto:hello@revisionupdates.info" class="icon fa-envelope-o"><span class="label">Email</span></a></li>
+								<?php 
+									$page_type = 'main';
+									include('includes/social_media.php'); 
+								?>
 							</ul>
 						</nav>
 					</header>
 
 				<!-- Footer -->
 					<footer id="footer">
-						<span class="copyright"><?php include('footer.php'); ?></span>
+						<span class="copyright"><?php include('includes/footer.php'); ?></span>
 					</footer>
 
 			</div>

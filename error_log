@@ -2,3 +2,8 @@
 [07-Jun-2015 15:49:47 America/New_York] PHP Parse error:  syntax error, unexpected '$txt' (T_VARIABLE), expecting '(' in /home/revisionupdates/public_html/index.php on line 48
 [07-Jun-2015 15:50:00 America/New_York] PHP Parse error:  syntax error, unexpected '$txt' (T_VARIABLE), expecting '(' in /home/revisionupdates/public_html/index.php on line 48
 [07-Jun-2015 15:50:01 America/New_York] PHP Parse error:  syntax error, unexpected '$txt' (T_VARIABLE), expecting '(' in /home/revisionupdates/public_html/index.php on line 48
+[08-Jun-2015 09:56:50 America/New_York] PHP Warning:  include(social_media.php): failed to open stream: No such file or directory in /home/revisionupdates/public_html/index.php on line 41
+[08-Jun-2015 09:56:50 America/New_York] PHP Warning:  include(social_media.php): failed to open stream: No such file or directory in /home/revisionupdates/public_html/index.php on line 41
+[08-Jun-2015 09:56:50 America/New_York] PHP Warning:  include(): Failed opening 'social_media.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/revisionupdates/public_html/index.php on line 41
+[08-Jun-2015 09:58:22 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/revisionupdates/public_html/includes/social_media.php on line 21
+[08-Jun-2015 09:58:28 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/revisionupdates/public_html/includes/social_media.php on line 21

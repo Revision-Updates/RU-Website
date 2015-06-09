@@ -221,16 +221,16 @@
 				<footer id="footer">
 
 					<ul class="icons">
-						<li><a href="http://revisionupdates.info/twitter" class="icon circle fa-twitter"><span class="label">Twitter</span></a></li>
-						<li><a href="http://revisionupdates.info/fb" class="icon circle fa-facebook"><span class="label">Facebook</span></a></li>
-						<li><a href="http://revisionupdates.info/ambassadors" class="icon circle fa-slack"><span class="label">Slack</span></a></li>
-						<li><a href="http://revisionupdates.info/github" class="icon circle fa-github"><span class="label">Github</span></a></li>
-						<li><a href="mailto:hello@revisionupdates.info" class="icon circle fa-envelope-o"><span class="label">Email</span></a></li>
+						<?php 
+							include('../includes/config/social_media_config.php');
+							$page_type = 'ru_digi';
+							include('../includes/social_media_formats/social_media_ru_digi.php');
+						?>
 					</ul>
 
 					<ul class="copyright">
 						<li>
-							<?php include('../footer.php'); ?>					
+							<?php include('../includes/footer.php'); ?>					
 						</li>
 					</ul>
 
