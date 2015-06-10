@@ -2,6 +2,8 @@
 <html>
 	<head>
 		<title>Revision Updates</title>
+		<meta name="description" content="Revision Updates online platform with quick access to all of our educational resources for GCSE and A-Levels.">
+		<meta name="keywords" content="Revision~Updates,Revision,Updates,Exams,Students,Learning,Education">
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
@@ -31,7 +33,7 @@
 				<!-- Header -->
 					<header id="header">
 						<h1>Revision Updates</h1>
-						<p><a href="http://revisionupdates.info/releases">RU Releases</a> &nbsp;&bull;&nbsp; <a href="http://revisionupdates.info/ru-digi">RU Digi Calendar</a> &nbsp;&bull;&nbsp; <a href="http://revisionupdates.info/ambassadors">Ambassadors</a></p>
+						<p><a alt="RU Releases" href="http://revisionupdates.info/releases">RU Releases</a> &nbsp;&bull;&nbsp; <a alt="RU Digi" href="http://revisionupdates.info/ru-digi">RU Digi Calendar</a> &nbsp;&bull;&nbsp; <a alt="RU Ambassadors" href="http://revisionupdates.info/ambassadors">Ambassadors</a></p>
 						<nav>
 							<ul>
 								<?php 

@@ -2,6 +2,8 @@
 <html>
 	<head>
 		<title>RU DIGI</title>
+		<meta name="description" content="Revision Updates - RU Digi cloud based revision calendar and timetable for students.">
+		<meta name="keywords" content="Revision~Updates,RU-Digi,Exams,Students,Learning,Education">
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
