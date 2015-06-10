@@ -20,6 +20,7 @@
 
 		</script>
 		<link rel="shortcut icon" href="favicon.ico"> 
+		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 	</head>
 	<body class="loading">
 		<div id="wrapper">
