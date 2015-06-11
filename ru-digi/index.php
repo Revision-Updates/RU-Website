@@ -20,10 +20,62 @@
   		ga('send', 'pageview');
 
 		</script>
+		<script src="assets/js/modernizr.custom.80028.js"></script>
+		
+		<style>
+		#note {
+        position: absolute;
+        z-index: 100000;
+        top: 0;
+        left: 0;
+        right: 0;
+        
+        background: #83d3c9;
+        text-align: center;
+        text-color: #000;
+        text-decoration: underline;
+        line-height: 2.5;
+        overflow: hidden; 
+        -webkit-box-shadow: 0 0 5px black;
+        -moz-box-shadow:    0 0 5px black;
+        box-shadow:         0 0 5px black;
+    	}
+		.cssanimations.csstransforms #note {
+        -webkit-transform: translateY(-50px);
+        -webkit-animation: slideDown 5.0s 1.0s 1 ease forwards;
+        -moz-transform:    translateY(-50px);
+        -moz-animation:    slideDown 5.0s 1.0s 1 ease forwards;
+    	}
+
+		#close {
+		position: absolute;
+		right: 10px;
+		top: 9px;
+		text-indent: -9999px;
+		background: url(images/close.png);
+		height: 16px;
+		width: 16px;
+		cursor: pointer;
+		}
+		.cssanimations.csstransforms #close {
+		display: none;
+    	}
+    
+		@-webkit-keyframes slideDown {
+        0%, 100% { -webkit-transform: translateY(-50px); }
+        10%, 90% { -webkit-transform: translateY(0px); }
+		}
+		@-moz-keyframes slideDown {
+        0%, 100% { -moz-transform: translateY(-50px); }
+        10%, 90% { -moz-transform: translateY(0px); }
+		}
+	</style>
 	</head>
 	<body class="index">
 		<div id="page-wrapper">
-
+						<!--<div id="note">
+						Exam Season Over! Enjoy your holidays!
+    					</div> -->
 			<!-- Header -->
 				<header id="header" class="alt">
 					<h1 id="logo"><a href="http://revisionupdates.info/ru-digi">RU Digi <span>by Revision Updates</span></a></h1>
@@ -59,7 +111,6 @@
 						appropriate (<br />).
 					-->
 					<div class="inner">
-
 						<header>
 							<h2>RU Digi</h2>
 						</header>
@@ -109,7 +160,7 @@
 										- Maths Revision (7th June 2015; 09:30-12:30) <span class="icon fa-check-square-o"></span> <br />
 										- C1 Revision (8th June 2015; 15:30-16:30; L12) <span class="icon fa-check-square-o"></span> <br />
 										- C1 Revision (9th June 2015; 09:00-11:30; L12) <span class="icon fa-check-square-o"></span> <br />
-										- P1 Revision (11th June 2015; 15:30-16:30; L12) <span class="icon fa-square-o"></span> <br />
+										- P1 Revision (11th June 2015; 15:30-16:30; L12) <span class="icon fa-check-square-o"></span> <br />
 										- P1 Revision (12th June 2015; 09:00-11:30; L12) <span class="icon fa-square-o"></span> <br />
 									</p>
 									<footer>
