@@ -161,7 +161,7 @@
 										- C1 Revision (8th June 2015; 15:30-16:30; L12) <span class="icon fa-check-square-o"></span> <br />
 										- C1 Revision (9th June 2015; 09:00-11:30; L12) <span class="icon fa-check-square-o"></span> <br />
 										- P1 Revision (11th June 2015; 15:30-16:30; L12) <span class="icon fa-check-square-o"></span> <br />
-										- P1 Revision (12th June 2015; 09:00-11:30; L12) <span class="icon fa-square-o"></span> <br />
+										- P1 Revision (12th June 2015; 09:00-11:30; L12) <span class="icon fa-check-square-o"></span> <br />
 									</p>
 									<footer>
 										<ul class="buttons">
