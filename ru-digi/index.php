@@ -73,9 +73,9 @@
 	</head>
 	<body class="index">
 		<div id="page-wrapper">
-						<!--<div id="note">
-						Exam Season Over! Enjoy your holidays!
-    					</div> -->
+						<div id="note">
+						Edexcel Exam Season Over! Enjoy your holidays! August 20th Results Day, contact your examination centre.
+    					</div>
 			<!-- Header -->
 				<header id="header" class="alt">
 					<h1 id="logo"><a href="http://revisionupdates.info/ru-digi">RU Digi <span>by Revision Updates</span></a></h1>
