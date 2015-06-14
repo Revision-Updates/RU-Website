@@ -74,7 +74,7 @@
 	<body class="index">
 		<div id="page-wrapper">
 						<div id="note">
-						Edexcel Exam Season Over! Enjoy your holidays! August 20th Results Day, contact your examination centre.
+						Exam Season Over!
     					</div>
 			<!-- Header -->
 				<header id="header" class="alt">
