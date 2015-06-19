@@ -11,7 +11,7 @@
 	$icon2_type = 'facebook';
 	$icon3_type = 'slack';
 	$icon4_type = 'github';
-	$icon5_type = 'envelope-o';
+	$icon5_type = 'paper-plane-o';
 	
 	//Icon URL Links
 	$icon1_url = 'http://revisionupdates.info/twitter';
