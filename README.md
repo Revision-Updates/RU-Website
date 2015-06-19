@@ -13,3 +13,4 @@ Features:
  - Downloads for calendar and promotionals avaliable
  - Parser setup for all directories
  - Adjusted .JS Assets for banner support
+ - Support for Drop File System (http://revisionupdates.info/files)
