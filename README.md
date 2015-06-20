@@ -1,7 +1,8 @@
 # RU-Website
 The revision updates website interface and documentation.
+[Visit Revision Updates!](http://revisionupdates.info)
 
-Features:
+#####Features:
  - Social Media Integration
  - Internal site redirection
  - Error page support
