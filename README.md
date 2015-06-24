@@ -5,7 +5,7 @@ The revision updates website interface and documentation.
 #####Features:
  - Social Media Integration
  - Internal site redirection
- - Error page support
+ - Error page support (with automatic 404 redirection)
  - Favicon integration
  - PHP Config and Include integration
  - RU Digi Setup Support Pages

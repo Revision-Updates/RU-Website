@@ -21,6 +21,7 @@
 		</script>
 		<link rel="shortcut icon" href="favicon.ico"> 
 		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+		<meta http-equiv="refresh" content="5;URL='http://revisionupdates.info'" />
 	</head>
 	<body class="loading">
 		<div id="wrapper">
@@ -31,7 +32,7 @@
 				<!-- Header -->
 					<header id="header">
 						<h1>Error 404</h1>
-						<p>Are you lost? Let us <a href="http://revisionupdates.info">redirect</a> you...</p>
+						<p>Are you lost? Let us <a href="http://revisionupdates.info">redirect</a> you... <i class="fa fa-spinner fa-pulse"></i></p>
 					</header>
 
 				<!-- Footer -->
