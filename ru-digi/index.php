@@ -70,6 +70,7 @@
         10%, 90% { -moz-transform: translateY(0px); }
 		}
 	</style>
+	<?php include('../includes/web_clip.php'); ?>
 	</head>
 	<body class="index">
 		<div id="page-wrapper">
