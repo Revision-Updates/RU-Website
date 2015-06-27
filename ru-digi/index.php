@@ -75,7 +75,7 @@
 	<body class="index">
 		<div id="page-wrapper">
 						<div id="note">
-						Exam Season Over!
+						GCSE Results - 20th August
     					</div>
 			<!-- Header -->
 				<header id="header" class="alt">
@@ -150,23 +150,15 @@
 									<header>
 										<h2>Behold the <strong>dates and times</strong> of revision sessions.</h2>
 									</header>
+									<br></br>
 									<p>
-										- Unit 1 Revision (29th May 2015; 09:30-12:30; T-Block) <span class="icon fa-check-square-o"></span> <br />
-										- English Language Revision (1st June 2015; 09:10-15:30) <span class="icon fa-check-square-o"></span> <br />
-										- Maths Revision (2nd June 2015; 13:20-15:30) <span class="icon fa-check-square-o"></span> <br />
-										- Maths Revision (3rd June 2015; 09:00-15:30) <span class="icon fa-check-square-o"></span> <br />
-										- B1 Revision (4th June 2015; 15:30-16:30; L12) <span class="icon fa-check-square-o"></span> <br />
-										- B1 Revision (5th June 2015; 09:00-11:30; L12) <span class="icon fa-check-square-o"></span> <br />
-										- Maths Revision (6th June 2015; 09:30-14:30) <span class="icon fa-check-square-o"></span> <br />
-										- Maths Revision (7th June 2015; 09:30-12:30) <span class="icon fa-check-square-o"></span> <br />
-										- C1 Revision (8th June 2015; 15:30-16:30; L12) <span class="icon fa-check-square-o"></span> <br />
-										- C1 Revision (9th June 2015; 09:00-11:30; L12) <span class="icon fa-check-square-o"></span> <br />
-										- P1 Revision (11th June 2015; 15:30-16:30; L12) <span class="icon fa-check-square-o"></span> <br />
-										- P1 Revision (12th June 2015; 09:00-11:30; L12) <span class="icon fa-check-square-o"></span> <br />
+										<header>
+											<h2><strong>2015-16</strong> Sessions Coming Soon!</h2>
+										</header>
 									</p>
 									<footer>
 										<ul class="buttons">
-											<li><a href="http://revisionupdates.info/downloads/ru-releases.ics" class="button">Download Calendar (.ICS)</a></li>
+											<li><a href="http://revisionupdates.info/downloads/ru-releases.ics" class="button">Download 15' Calendar (.ICS)</a></li>
 										</ul>
 									</footer>
 
