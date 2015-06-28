@@ -33,7 +33,7 @@
 				<!-- Header -->
 					<header id="header">
 						<h1>Revision Updates</h1>
-						<p><a alt="RU Releases" href="http://revisionupdates.info/releases">RU Releases</a> &nbsp;&bull;&nbsp; <a alt="RU Digi" href="http://revisionupdates.info/ru-digi">RU Digi Calendar</a> &nbsp;&bull;&nbsp; <a alt="RU Ambassadors" href="http://revisionupdates.info/ambassadors">Ambassadors</a></p>
+						<p><a alt="RU Releases" href="http://revisionupdates.info/releases">RU Releases</a> &nbsp;&bull;&nbsp; <a alt="RU Digi" href="http://revisionupdates.info/ru-digi">RU Digi Calendar</a> &nbsp;&bull;&nbsp; <a alt="RU Ambassadors" href="http://revisionupdates.info/course">RU iTunes U</a></p>
 						<nav>
 							<ul>
 								<?php 

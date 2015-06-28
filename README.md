@@ -16,3 +16,4 @@ The revision updates website interface and documentation.
  - Adjusted .JS Assets for banner support
  - Support for Drop File System (http://revisionupdates.info/files)
  - Web Application Support for iOS, Android and Windows (Web-Clips)
+ - iTunes U Information and Download Pages

@@ -75,19 +75,20 @@
 	<body class="index">
 		<div id="page-wrapper">
 						<div id="note">
-						GCSE Results - 20th August
+						GCSE Results - 20th August 15'
     					</div>
 			<!-- Header -->
 				<header id="header" class="alt">
 					<h1 id="logo"><a href="http://revisionupdates.info/ru-digi">RU Digi <span>by Revision Updates</span></a></h1>
 					<nav id="nav">
 						<ul>
-							<li class="current"><a href="index.html">Welcome</a></li>
+							<li class="current"><a href="index.php">Welcome</a></li>
 							<li class="submenu">
 								<a href="#">Resources</a>
 								<ul>
 									<li><a href="http://revisionupdates.info/releases">RU Releases <span class="icon fa-dropbox"></span></a></li>
-									<li><a href="http://revisionupdates.info/ambassador">Ambassador <span class="icon fa-slack"></span></a></li>
+									<li><a href="http://revisionupdates.info/ambassador">Ambassadors <span class="icon fa-slack"></span></a></li>
+									<li><a href="http://revisionupdates.info/course">RU iTunes U <span class="icon fa-book"></span></a></li>
 									<li class="submenu">
 										<a href="#">Admin <span class="icon fa-lock"></span></a>
 										<ul>
@@ -150,7 +151,7 @@
 									<header>
 										<h2>Behold the <strong>dates and times</strong> of revision sessions.</h2>
 									</header>
-									<br></br>
+									<br>
 									<p>
 										<header>
 											<h2><strong>2015-16</strong> Sessions Coming Soon!</h2>
@@ -158,7 +159,7 @@
 									</p>
 									<footer>
 										<ul class="buttons">
-											<li><a href="http://revisionupdates.info/downloads/ru-releases.ics" class="button">Download 15' Calendar (.ICS)</a></li>
+											<li><a href="http://revisionupdates.info/downloads/ru-releases.ics" class="button">Download 15' Calendar</a></li>
 										</ul>
 									</footer>
 
