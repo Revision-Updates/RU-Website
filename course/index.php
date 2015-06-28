@@ -31,7 +31,7 @@
 
 			<!-- Header -->
 				<header id="header" class="alt">
-					<h1><a href="index.html">RU iTunes U</a> by Revision Updates</h1>
+					<h1><a href="index.php">RU iTunes U</a> by Revision Updates</h1>
 					<nav id="nav">
 						<ul>
 							<li><a href="index.php">Welcome</a></li>
