@@ -40,7 +40,7 @@
 								<ul>
 									<li><a href="http://revisionupdates.info/releases">RU Releases</a></li>
 									<li><a href="http://revisionupdates.info/ru-digi">RU Digi</a></li>
-									<li><a href="http://revisionupdates.info/ambassador">Ambassadors</a></li>
+									<li><a href="http://revisionupdates.info/ambassadors">Ambassadors</a></li>
 									<li><a href="http://revisionupdates.info/itunesu">iTunes U Download</a></li>
 									<li>
 										<a>Admin</a>

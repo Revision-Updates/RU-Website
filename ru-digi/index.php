@@ -87,7 +87,7 @@
 								<a href="#">Resources</a>
 								<ul>
 									<li><a href="http://revisionupdates.info/releases">RU Releases <span class="icon fa-dropbox"></span></a></li>
-									<li><a href="http://revisionupdates.info/ambassador">Ambassadors <span class="icon fa-slack"></span></a></li>
+									<li><a href="http://revisionupdates.info/ambassadors">Ambassadors <span class="icon fa-slack"></span></a></li>
 									<li><a href="http://revisionupdates.info/course">RU iTunes U <span class="icon fa-book"></span></a></li>
 									<li class="submenu">
 										<a href="#">Admin <span class="icon fa-lock"></span></a>
