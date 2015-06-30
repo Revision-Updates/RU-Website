@@ -21,6 +21,7 @@
 		</script>
 		<link rel="shortcut icon" href="favicon.ico"> 
 		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+		<meta http-equiv="refresh" content="5;URL='http://revisionupdates.info'" />
 	</head>
 	<body class="loading">
 		<div id="wrapper">
@@ -32,6 +33,8 @@
 					<header id="header">
 						<h1>Error 500</h1>
 						<p>Internal Server Error. Sorry. Let us <a href="http://revisionupdates.info">redirect</a> you...</p>
+						<br></br>
+						<i class="fa fa-spinner fa-pulse fa-5x"></i></p>
 					</header>
 
 				<!-- Footer -->

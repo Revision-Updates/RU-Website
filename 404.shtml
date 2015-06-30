@@ -32,7 +32,9 @@
 				<!-- Header -->
 					<header id="header">
 						<h1>Error 404</h1>
-						<p>Are you lost? Let us <a href="http://revisionupdates.info">redirect</a> you... <i class="fa fa-spinner fa-pulse"></i></p>
+						<p>Are you lost? Let us <a href="http://revisionupdates.info">redirect</a> you... 
+						<br></br>
+						<i class="fa fa-spinner fa-pulse fa-5x"></i></p>
 					</header>
 
 				<!-- Footer -->

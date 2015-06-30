@@ -51,7 +51,7 @@
 									</li>
 								</ul>
 							</li>
-							<li><a href="http://revisionupdates.info" class="button">Go Back</a></li>
+							<li><a href="http://revisionupdates.info/course/posts" class="button">View Posts</a></li>
 						</ul>
 					</nav>
 				</header>
