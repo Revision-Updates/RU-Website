@@ -71,6 +71,23 @@
 		}
 	</style>
 	<?php include('../includes/web_clip.php'); ?>
+	<script src='http://code.jquery.com/jquery-latest.min.js' type='text/javascript'></script>
+	<script>
+			$(document).ready(function(){
+			$('a[href^="#"]').on('click',function (e) {
+			e.preventDefault();
+
+			var target = this.hash;
+			var $target = $(target);
+
+			$('html, body').stop().animate({
+	        'scrollTop': $target.offset().top
+	    	}, 900, 'swing', function () {
+	        	window.location.hash = target;
+	    	});
+			});
+			});
+	</script>
 	</head>
 	<body class="index">
 		<div id="page-wrapper">
@@ -79,10 +96,10 @@
     					</div>
 			<!-- Header -->
 				<header id="header" class="alt">
-					<h1 id="logo"><a href="http://revisionupdates.info/ru-digi">RU Digi <span>by Revision Updates</span></a></h1>
+					<h1 id="logo"><a href="index.php">RU Digi <span>by Revision Updates</span></a></h1>
 					<nav id="nav">
 						<ul>
-							<li class="current"><a href="index.php">Welcome</a></li>
+							<li class="current"><a href="#page-wrapper">Welcome</a></li>
 							<li class="submenu">
 								<a href="#">Resources</a>
 								<ul>

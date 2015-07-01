@@ -34,7 +34,7 @@
 					<h1><a href="index.php">RU iTunes U</a> by Revision Updates</h1>
 					<nav id="nav">
 						<ul>
-							<li><a href="index.php">Welcome</a></li>
+							<li><a href="#page-wrapper">Welcome</a></li>
 							<li>
 								<a class="icon fa-angle-down">Resources</a>
 								<ul>
