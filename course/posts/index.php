@@ -70,20 +70,76 @@
 					</header>
 					<div class="box">
 						<span class="image featured"><img src="images/pic01.jpg" alt="" /></span>
-						<h3>This is a subheading</h3>
-						<p>Cep risus aliquam gravida cep ut lacus amet. Adipiscing faucibus nunc placerat. Tempus adipiscing turpis non blandit accumsan eget lacinia nunc integer interdum amet aliquam ut orci non col ut ut praesent. Semper amet interdum mi. Phasellus enim laoreet ac ac commodo faucibus faucibus. Curae ante vestibulum ante. Blandit. Ante accumsan nisi eu placerat gravida placerat adipiscing in risus fusce vitae ac mi accumsan nunc in accumsan tempor blandit aliquet aliquet lobortis. Ultricies blandit lobortis praesent turpis. Adipiscing accumsan adipiscing adipiscing ac lacinia cep. Orci blandit a iaculis adipiscing ac. Vivamus ornare laoreet odio vis praesent nunc lorem mi. Erat. Tempus sem faucibus ac id. Vis in blandit. Nascetur ultricies blandit ac. Arcu aliquam. Accumsan mi eget adipiscing nulla. Non vestibulum ac interdum condimentum semper commodo massa arcu.</p>
+						<h3>Announcements</h3>
+						<p>
+							<span class="image left"><img src="images/v2_ico.png" alt="" /></span>Just to let you know, we will be publishing Revision Updates A-Level Edition officially as apart of our <strong>public release</strong> on the 27th August 2015 (although we will start adding people from the 20th).
+
+As apart of the release with v2.0 revision updates we will be offering a new standard of resources that are specifically designed for all of your A-Level needs. We have an ever-expanding database of resources that we will be making available from day one.
+<br></br>
+If you would like to see any more information regarding the iTunes U course please see our <a href="http://revisionupdates.info/course">dedicated website</a>.
+						</p>
 						<div class="row">
 							<div class="6u 12u(mobilep)">
-								<h3>And now a subheading</h3>
-								<p>Adipiscing faucibus nunc placerat. Tempus adipiscing turpis non blandit accumsan eget lacinia nunc integer interdum amet aliquam ut orci non col ut ut praesent. Semper amet interdum mi. Phasellus enim laoreet ac ac commodo faucibus faucibus. Curae lorem ipsum adipiscing ac. Vivamus ornare laoreet odio vis praesent.</p>
+								<h3>Supported Subjects</h3>
+								<p>
+									<ul>
+										<li>Biology</li>
+										<li>Chemistry</li>
+										<li>Physics</li>
+										<li>Mathematics</li>
+										<li>Further Mathematics</li>
+										<li>Computing</li>
+										<li>English Literature</li>
+										<li>Forensics</li>
+										<li>French</li>
+										<li>Geography</li>
+										<li>History</li>
+									</ul>
+								</p>
 							</div>
 							<div class="6u 12u(mobilep)">
-								<h3>And another subheading</h3>
-								<p>Adipiscing faucibus nunc placerat. Tempus adipiscing turpis non blandit accumsan eget lacinia nunc integer interdum amet aliquam ut orci non col ut ut praesent. Semper amet interdum mi. Phasellus enim laoreet ac ac commodo faucibus faucibus. Curae lorem ipsum adipiscing ac. Vivamus ornare laoreet odio vis praesent.</p>
+								<h3>Day One</h3>
+								<p>
+									<span class="image left"><img src="images/d1_ico.png" alt="" /></span>
+									Should we not yet be supporting a course that you would like us to support do not hesitate to ask us to do so, you can get in touch with me via <a href="mailto:sammy_herring@revisionupdates.info">email</a>. Please note that we having a growing ambassadors team and we are looking for more members, please see are <a href="http://revisionupdates.info/course/posts/articles/ambassadors_leaflet.php">information sheet</a> to see if you are interested. We would like to remind you that it is only thanks to the generosity of students willing to help us develop our learning resources platform.
+								<br></br>
+									We would like to take this opportunity to thank you for joining our beta of Revision Updates iTunes U and we are happy to answer any questions that you may have. <a href="mailto:sammy_herring@revisionupdates.info">Click here</a> to email us for a query.
+								</p>
 							</div>
 						</div>
 					</div>
-				</section>
+				
+					<div class="row">
+						<div class="6u 12u(narrower)">
+
+							<section class="box special">
+								<span class="image featured"><img src="images/pic02.jpg" alt="" /></span>
+								<h3>RU Releases</h3>
+								<p>
+									Our largest learning resource with over 50 GB of data. With a student-centric focus, we cover multiple subjects aimed at both GCSE and A-Level (GCE) students.
+								</p>
+								<ul class="actions">
+									<li><a href="http://revisionupdates.info/releases" class="button alt">Learn More</a></li>
+								</ul>
+							</section>
+
+						</div>
+						<div class="6u 12u(narrower)">
+
+							<section class="box special">
+								<span class="image featured"><img src="images/pic03.jpg" alt="" /></span>
+								<h3>RU Digi</h3>
+								<p>
+									Yet another of Revision Updates innovative resources. A cloud based calendar system, where we track and monitor all revision sessions for your convenience.
+								</p>
+								<ul class="actions">
+									<li><a href="http://revisionupdates.info/ru-digi/" class="button alt">Learn More</a></li>
+								</ul>
+							</section>
+
+						</div>
+					</div>
+					</section>
 
 			<!-- Footer -->
 				<footer id="footer">
