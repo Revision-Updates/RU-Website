@@ -17,3 +17,6 @@ The revision updates website interface and documentation.
  - Support for Drop File System (http://revisionupdates.info/files)
  - Web Application Support for iOS, Android and Windows (Web-Clips)
  - iTunes U Information and Download Pages
+ - Course Articles now supported
+ - PHP based user tracking for analytics
+ - Improved UI animations
