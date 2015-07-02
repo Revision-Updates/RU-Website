@@ -1964,7 +1964,7 @@
 		line-height: 1.5em;
 	}
 
-	header.major {
+	header. {
 		padding: 1em 0;
 		text-align: center;
 	}
@@ -2354,6 +2354,48 @@
 				background: #e5cb95;
 				color: #ffffff;
 			}
+			
+		.icon.min {
+			background: #666;
+			border-radius: 100px;
+			color: #ffffff;
+			cursor: default;
+			display: inline-block;
+			height: 2.25em;
+			line-height: 2.25em;
+			margin: 0 0 1em 0;
+			width: 2.25em;
+		}
+
+			.icon.min:before {
+				font-size: 1.25em;
+			}
+
+			.icon.min.accent1 {
+				background: #666;
+				color: #ffffff;
+			}
+
+			.icon.min.accent2 {
+				background: #e89980;
+				color: #ffffff;
+			}
+
+			.icon.min.accent3 {
+				background: #7fcdb8;
+				color: #ffffff;
+			}
+
+			.icon.min.accent4 {
+				background: #90b0ba;
+				color: #ffffff;
+			}
+
+			.icon.min.accent5 {
+				background: #e5cb95;
+				color: #ffffff;
+			}
+
 
 /* Image */
 

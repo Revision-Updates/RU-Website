@@ -1,8 +1,14 @@
+<?php
+	$Course_Title = 'Chemistry';
+	$Course_Banner = 'chemistry';
+	$Course_Icon = 'chem';
+	$Course_Mantra = 'In our new Revision Updates core education package for A-Level we are currently supporting OCR B Salters from day one.';
+?>
 <!DOCTYPE HTML>
 <html>
 	<head>
-		<title>RU iTunes U - Articles</title>
-		
+		<title>RU iTunes U - <?php echo $Course_Title; ?></title>
+		<?php include('../../../includes/tracking_info.php'); ?>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
@@ -26,14 +32,13 @@
 			});
 			});
 		</script>
-		<meta http-equiv="refresh" content="5;URL='http://revisionupdates.info/course/posts'" />
 	</head>
 	<body>
 		<div id="page-wrapper">
 
 			<!-- Header -->
 				<header id="header">
-					<h1><a href="index.php">RU iTunes U</a> by Revision Updates</h1>
+					<h1><a href="<?php echo $Course_Banner; ?>.php">RU iTunes U</a> by Revision Updates</h1>
 					<nav id="nav">
 						<ul>
 							<li><a href="#page-wrapper">Welcome</a></li>
@@ -61,19 +66,51 @@
 			<!-- Main -->
 				<section id="main" class="container">
 					<header>
-						<h2>Articles</h2>
-						<p>Uh-oh! You need to go to the exact page... We'll <a href="http://revisionupdates.info/course/posts">redirect</a> you...</p>
-						<p>If this is Tom, nice try. :-)</p>
-						<br></br>
-						<span class="icon major fa-cloud accent1"></span> 
-						<span class="icon major fa-code accent2"></span> 
-						<span class="icon major fa-code-fork accent3"></span>
-						<span class="icon major fa-terminal accent4"></span> 
-						<span class="icon major fa-upload accent5"></span> 
-						<br></br>
-						<i class="fa fa-spinner fa-pulse fa-5x"></i></p>
+						<h2><?php echo $Course_Title; ?></h2>
+						<p><?php echo $Course_Mantra; ?></p>
 					</header>
-					</section>
+					<div class="box">
+						<span class="image featured"><img src="http://revisionupdates.info/course/posts/images/<?php echo $Course_Banner; ?>_banner.jpg" alt="" /></span>
+						<header>
+						<h3>Announcements</h3>
+						<p>More content coming soon.</p>
+						</header>
+						<p>
+							<span class="image left"><img src="http://revisionupdates.info/course/posts/articles/images/icons/<?php echo $Course_Icon; ?>.png" alt="" /></span>Just to let you know, we will be publishing Revision Updates A-Level Edition officially as apart of our <strong>public release</strong> on the 27th August 2015 (although we will start adding people from the 20th). As apart of the release with v2.0 revision updates we will be offering a new standard of resources that are specifically designed for all of your A-Level needs. We have an ever-expanding database of resources that we will be making available from day one.
+						</p>
+
+					</div>
+				
+					<div class="row">
+						<div class="6u 12u(narrower)">
+
+							<section class="box special">
+								<span class="image featured"><img src="http://revisionupdates.info/course/posts/images/pic02.jpg" alt="" /></span>
+								<h3>RU Releases</h3>
+								<p>
+									Our largest learning resource with over 50 GB of data. With a student-centric focus, we cover multiple subjects aimed at both GCSE and A-Level (GCE) students.
+								</p>
+								<ul class="actions">
+									<li><a href="http://revisionupdates.info/releases" class="button alt">Learn More</a></li>
+								</ul>
+							</section>
+
+						</div>
+						<div class="6u 12u(narrower)">
+
+							<section class="box special">
+								<span class="image featured"><img src="http://revisionupdates.info/course/posts/images/pic03.jpg" alt="" /></span>
+								<h3>RU Digi</h3>
+								<p>
+									Yet another of Revision Updates innovative resources. A cloud based calendar system, where we track and monitor all revision sessions for your convenience.
+								</p>
+								<ul class="actions">
+									<li><a href="http://revisionupdates.info/ru-digi/" class="button alt">Learn More</a></li>
+								</ul>
+							</section>
+
+						</div>
+					</div>					</section>
 
 			<!-- Footer -->
 				<footer id="footer">

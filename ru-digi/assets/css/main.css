@@ -1889,6 +1889,24 @@
 				.icon.circle.fa-dribbble:hover {
 					background: #df93b8;
 				}
+				
+			.icon.circle.fa-slack {
+				background: #78CDB9;
+				color: #fff;
+			}
+
+				.icon.circle.fa-slack:hover {
+					background: #78d6c5;
+				}
+				
+			.icon.circle.fa-paper-plane-o {
+				background: #E6CB9B;
+				color: #fff;
+			}
+
+				.icon.circle.fa-paper-plane-o:hover {
+					background: #e6d7b2;
+				}
 
 		.icon.featured {
 			cursor: default;

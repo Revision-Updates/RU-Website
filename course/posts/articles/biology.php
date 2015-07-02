@@ -1,7 +1,13 @@
+<?php
+	$Course_Title = 'Biology';
+	$Course_Banner = 'biology';
+	$Course_Icon = 'bio';
+	$Course_Mantra = 'As apart of our core education package we support Biology A-Level. Currently, our resources are aimed at the OCR B Advancing Biology specification.';
+?>
 <!DOCTYPE HTML>
 <html>
 	<head>
-		<title>RU iTunes U - Ambassador's Leaflet</title>
+		<title>RU iTunes U - <?php echo $Course_Title; ?></title>
 		<?php include('../../../includes/tracking_info.php'); ?>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -32,7 +38,7 @@
 
 			<!-- Header -->
 				<header id="header">
-					<h1><a href="index.php">RU iTunes U</a> by Revision Updates</h1>
+					<h1><a href="<?php echo $Course_Banner; ?>.php">RU iTunes U</a> by Revision Updates</h1>
 					<nav id="nav">
 						<ul>
 							<li><a href="#page-wrapper">Welcome</a></li>
@@ -60,13 +66,51 @@
 			<!-- Main -->
 				<section id="main" class="container">
 					<header>
-						<h2>Ambassador's Leaflet</h2>
-						<p>Contact us if you are interested. <a href="mailto:sammy_herring@revisionupdates.info">Click here</a>.</p>
+						<h2><?php echo $Course_Title; ?></h2>
+						<p><?php echo $Course_Mantra; ?></p>
 					</header>
 					<div class="box">
-						<span class="image fit"><img src="http://revisionupdates.info/downloads/Revision Updates_Ambassadors.jpg" alt="" /></span>
+						<span class="image featured"><img src="http://revisionupdates.info/course/posts/images/<?php echo $Course_Banner; ?>_banner.jpg" alt="" /></span>
+						<header>
+						<h3>Announcements</h3>
+						<p>More content coming soon.</p>
+						</header>
+						<p>
+							<span class="image left"><img src="http://revisionupdates.info/course/posts/articles/images/icons/<?php echo $Course_Icon; ?>.png" alt="" /></span>Just to let you know, we will be publishing Revision Updates A-Level Edition officially as apart of our <strong>public release</strong> on the 27th August 2015 (although we will start adding people from the 20th). As apart of the release with v2.0 revision updates we will be offering a new standard of resources that are specifically designed for all of your A-Level needs. We have an ever-expanding database of resources that we will be making available from day one.
+						</p>
+
+					</div>
+				
+					<div class="row">
+						<div class="6u 12u(narrower)">
+
+							<section class="box special">
+								<span class="image featured"><img src="http://revisionupdates.info/course/posts/images/pic02.jpg" alt="" /></span>
+								<h3>RU Releases</h3>
+								<p>
+									Our largest learning resource with over 50 GB of data. With a student-centric focus, we cover multiple subjects aimed at both GCSE and A-Level (GCE) students.
+								</p>
+								<ul class="actions">
+									<li><a href="http://revisionupdates.info/releases" class="button alt">Learn More</a></li>
+								</ul>
+							</section>
+
 						</div>
-					</section>
+						<div class="6u 12u(narrower)">
+
+							<section class="box special">
+								<span class="image featured"><img src="http://revisionupdates.info/course/posts/images/pic03.jpg" alt="" /></span>
+								<h3>RU Digi</h3>
+								<p>
+									Yet another of Revision Updates innovative resources. A cloud based calendar system, where we track and monitor all revision sessions for your convenience.
+								</p>
+								<ul class="actions">
+									<li><a href="http://revisionupdates.info/ru-digi/" class="button alt">Learn More</a></li>
+								</ul>
+							</section>
+
+						</div>
+					</div>					</section>
 
 			<!-- Footer -->
 				<footer id="footer">
