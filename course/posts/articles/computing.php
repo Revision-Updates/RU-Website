@@ -8,30 +8,12 @@
 <html>
 	<head>
 		<title>RU iTunes U - <?php echo $Course_Title; ?></title>
-		<?php include('../../../includes/tracking_info.php'); ?>
+		<?php include('../../../includes/init.php'); ?>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
 		<link rel="stylesheet" href="assets/css/main.css" />
 		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
-		<?php include('../../../includes/web_clip.php'); ?>
-		<script src='http://code.jquery.com/jquery-latest.min.js' type='text/javascript'></script>
-		<script>
-			$(document).ready(function(){
-			$('a[href^="#"]').on('click',function (e) {
-			e.preventDefault();
-
-			var target = this.hash;
-			var $target = $(target);
-
-			$('html, body').stop().animate({
-	        'scrollTop': $target.offset().top
-	    	}, 900, 'swing', function () {
-	        	window.location.hash = target;
-	    	});
-			});
-			});
-		</script>
 	</head>
 	<body>
 		<div id="page-wrapper">

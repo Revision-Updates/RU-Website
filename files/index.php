@@ -2,14 +2,13 @@
 <html>
 	<head>
 		<title>Revision Updates - Drop</title>
-		<?php include('../includes/tracking_info.php'); ?>
+		<?php include('../includes/init.php'); ?>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
 		<link rel="stylesheet" href="assets/css/main.css" />
 		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
 		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
-		<?php include('../includes/web_clip.php'); ?>
 	</head>
 	<body class="loading">
 		<div id="wrapper">

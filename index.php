@@ -2,7 +2,7 @@
 <html>
 	<head>
 		<title>Revision Updates</title>
-		<?php include('includes/tracking_info.php'); ?>
+		<?php include('includes/init.php'); ?>
 		<meta name="description" content="Revision Updates online platform with quick access to all of our educational resources for GCSE and A-Levels.">
 		<meta name="keywords" content="Revision~Updates,Revision,Updates,Exams,Students,Learning,Education">
 		<meta charset="utf-8" />
@@ -11,8 +11,6 @@
 		<link rel="stylesheet" href="assets/css/main.css" />
 		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
 		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
-		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-		<?php include('includes/web_clip.php'); ?>
 	</head>
 	<body class="loading">
 		<div id="wrapper">
