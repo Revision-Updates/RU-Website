@@ -1,20 +1,24 @@
-<?php
+	<?php
 	$Course_Title = 'French';
 	$Course_Banner = 'french';
 	$Course_Icon = 'pic05';
-	$Course_Mantra = 'In our new Revision Updates core education package for A-Level we are currently supporting OCR B Salters from day one.';
-?>
+	$Course_Date = '4th July 2015';
+	$Course_Mantra = 'As apart of our core education package we support Biology A-Level. Currently, our resources are aimed at the OCR B Advancing Biology specification.';
+	$Course_Lead_AuthorID = '1';
+	?>
 <!DOCTYPE HTML>
-<html>
 	<head>
 		<title>RU iTunes U - <?php echo $Course_Title; ?></title>
-		<?php include('../../../includes/init.php'); ?>
+		<?php 
+			include('../../../includes/init.php'); 
+		?>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
 		<link rel="stylesheet" href="assets/css/main.css" />
 		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
 	</head>
+
 	<body>
 		<div id="page-wrapper">
 
@@ -55,7 +59,7 @@
 						<span class="image featured"><img src="http://revisionupdates.info/course/posts/images/<?php echo $Course_Banner; ?>_banner.jpg" alt="" /></span>
 						<header>
 						<h3>Announcements</h3>
-						<p>More content coming soon.</p>
+						<hp>Last Updated: <?php echo $Course_Date; ?></hp>
 						</header>
 						<p>
 							<span class="image left"><img src="http://revisionupdates.info/course/posts/articles/images/icons/<?php echo $Course_Icon; ?>.png" alt="" /></span>Just to let you know, we will be publishing Revision Updates A-Level Edition officially as apart of our <strong>public release</strong> on the 27th August 2015 (although we will start adding people from the 20th). As apart of the release with v2.0 revision updates we will be offering a new standard of resources that are specifically designed for all of your A-Level needs. We have an ever-expanding database of resources that we will be making available from day one.
@@ -92,10 +96,28 @@
 							</section>
 
 						</div>
-					</div>					</section>
+					</div>
+					<div class="box">
+						<header>
+						<h3>Author Bio</h3>
+						<p><?php echo $Course_Author; ?></p>
+						</header>
+						<p>
+							<span class="image left"><img src="http://revisionupdates.info/course/posts/articles/images/icons/<?php echo $Course_Author_Icon; ?>.png" alt="" /></span><?php echo $Course_Author_Bio; ?>
+							<ul class="icons">
+						<li><a href="<?php echo $Course_Author_Facebook; ?>" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+						<li><a href="<?php echo $Course_Author_Twitter; ?>" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+						<li><a href="<?php echo $Course_Author_Google; ?>" class="icon fa-google-plus"><span class="label">Google+</span></a></li>
+						<li><a href="<?php echo $Course_Author_GitHub; ?>" class="icon fa-github"><span class="label">Github</span></a></li>
+					</ul>
+
+						</p>
+
+					</div>
+					</section>
 
 			<!-- Footer -->
-				<footer id="footer">
+				<footer id="footer">s
 					<ul class="icons">
 						<?php 
 							include('../../../includes/config/social_media_config.php');

@@ -2,6 +2,40 @@
 error_reporting(0);
 include('includes/web_clip.php');
 include('includes/tracking_info.php');
+
+	If ($Course_Lead_AuthorID != "") {
+		If ($Course_Lead_AuthorID = "1") {
+			#Course Author 1 Settings - Sammy Herring
+			$Course_Author = 'Sammy Herring';
+			$Course_Author_Link = 'http://sammyherring.co.uk';
+			$Course_Author_Icon = 'pic05';
+			$Course_Author_Bio = 'Web Developer working <a href="http://sammyherring.co.uk">freelance</a> operating in Kent and CEO of <a href="http://social-servers.co.uk">Social Systems</a>. Studying Mathematics (incl. FP1), Physics and Computer Science. While overseeing <a href="https://twitter.com/revisionupdates">@RevisionUpdates</a>.';
+			$Course_Author_Facebook = 'http://facebook.com/sammyherringsocial';
+			$Course_Author_Twitter = 'http://twitter.com/sammy_herring';
+			$Course_Author_Google = 'https://plus.google.com/117609819134494645136/';
+			$Course_Author_GitHub = 'https://twitter.com/Sammy_Herring';
+	 
+		} Elseif ($Course_Lead_AuthorID = "2") {
+			#Course Author 1 Settings - Toby Maskell
+			$Course_Author = 'Toby Maskell';
+			$Course_Author_Link = 'http://sammyherring.co.uk';
+			$Course_Author_Icon = 'pic05';
+			$Course_Author_Bio = 'Web Developer working <a href="http://sammyherring.co.uk">freelance</a> operating in Kent and CEO of <a href="http://social-servers.co.uk">Social Systems</a>. Studying Mathematics (incl. FP1), Physics and Computer Science. While overseeing <a href="https://twitter.com/revisionupdates">@RevisionUpdates</a>.';
+			$Course_Author_Facebook = 'http://facebook.com/sammyherringsocial';
+			$Course_Author_Twitter = 'http://twitter.com/sammy_herring';
+			$Course_Author_Google = 'https://plus.google.com/117609819134494645136/';
+			$Course_Author_GitHub = 'https://twitter.com/Sammy_Herring';
+		} Else {
+			#Course Author Default Settings - Sammy Herring
+			$Course_Author1 = 'Sammy Herring';
+			$Course_Author_Link1 = 'http://sammyherring.co.uk';
+			$Course_Author_Icon1 = 'pic05';
+			$Course_Author_Bio1 = 'Web Developer working <a href="http://sammyherring.co.uk">freelance</a> operating in Kent and CEO of <a href="http://social-servers.co.uk">Social Systems</a>. Studying Mathematics (incl. FP1), Physics and Computer Science. While overseeing <a href="https://twitter.com/revisionupdates">@RevisionUpdates</a>.';
+			$Course_Author_Facebook1 = 'http://facebook.com/sammyherringsocial';
+			$Course_Author_Twitter1 = 'http://twitter.com/sammy_herring';
+			$Course_Author_Google1 = 'https://plus.google.com/117609819134494645136/';
+			$Course_Author_GitHub1 = 'https://twitter.com/Sammy_Herring';
+	}}
 ?>
 <script src='http://code.jquery.com/jquery-latest.min.js' type='text/javascript'></script>
 <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
