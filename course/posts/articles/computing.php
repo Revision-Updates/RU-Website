@@ -1,7 +1,7 @@
 	<?php
 	$Course_Title = 'Computing';
 	$Course_Banner = 'computing';
-	$Course_Icon = 'pic50';
+	$Course_Icon = 'pic05';
 	$Course_Date = '4th July 2015';
 	$Course_Mantra = 'As apart of our core education package we support Biology A-Level. Currently, our resources are aimed at the OCR B Advancing Biology specification.';
 	$Course_Lead_AuthorID = '1';
@@ -117,7 +117,7 @@
 					</section>
 
 			<!-- Footer -->
-				<footer id="footer">s
+				<footer id="footer">
 					<ul class="icons">
 						<?php 
 							include('../../../includes/config/social_media_config.php');

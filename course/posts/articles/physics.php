@@ -117,7 +117,7 @@
 					</section>
 
 			<!-- Footer -->
-				<footer id="footer">s
+				<footer id="footer">
 					<ul class="icons">
 						<?php 
 							include('../../../includes/config/social_media_config.php');
