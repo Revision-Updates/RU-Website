@@ -24,10 +24,7 @@
 						<p><a alt="RU Releases" href="http://revisionupdates.info/releases">RU Releases</a> &nbsp;&bull;&nbsp; <a alt="RU Digi" href="http://revisionupdates.info/ru-digi">RU Digi Calendar</a> &nbsp;&bull;&nbsp; <a alt="RU Ambassadors" href="http://revisionupdates.info/course">RU iTunes U</a></p>
 						<nav>
 							<ul>
-								<?php 
-									$page_type = 'main';
-									include('includes/social_media.php'); 
-								?>
+								<?php include('includes/social_media.php'); ?>
 							</ul>
 						</nav>
 					</header>

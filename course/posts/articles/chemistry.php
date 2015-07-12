@@ -4,7 +4,7 @@
 	$Course_Icon = 'chem';
 	$Course_Date = '4th July 2015';
 	$Course_Mantra = 'In our new Revision Updates core education package for A-Level we are currently supporting OCR B Salters from day one.';
-	$Course_Lead_AuthorID = '1';
+	$Course_Lead_AuthorID = '2';
 	?>
 <!DOCTYPE HTML>
 	<head>
@@ -99,18 +99,38 @@
 					</div>
 					<div class="box">
 						<header>
-						<h3>Author Bio</h3>
+						<h3>Lead Author</h3>
 						<p><?php echo $Course_Author; ?></p>
 						</header>
 						<p>
 							<span class="image left"><img src="http://revisionupdates.info/course/posts/articles/images/icons/<?php echo $Course_Author_Icon; ?>.png" alt="" /></span><?php echo $Course_Author_Bio; ?>
-							<ul class="icons">
-						<li><a href="<?php echo $Course_Author_Facebook; ?>" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
-						<li><a href="<?php echo $Course_Author_Twitter; ?>" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
-						<li><a href="<?php echo $Course_Author_Google; ?>" class="icon fa-google-plus"><span class="label">Google+</span></a></li>
-						<li><a href="<?php echo $Course_Author_GitHub; ?>" class="icon fa-github"><span class="label">Github</span></a></li>
+					<ul class="icons">
+						<?php
+							If ($Course_Author_Facebook != "") {
+								?> <li><a href="<?php echo $Course_Author_Facebook; ?>" class="icon fa-facebook"><span class="label">Facebook</span></a></li><?php
+							}
+						?>
+						<?php
+							If ($Course_Author_Twitter != "") {
+								?> <li><a href="<?php echo $Course_Author_Twitter; ?>" class="icon fa-twitter"><span class="label">Twitter</span></a></li><?php
+							}
+						?>
+						<?php
+							If ($Course_Author_Google != "") {
+								?> <li><a href="<?php echo $Course_Author_Google; ?>" class="icon fa-google-plus"><span class="label">Google+</span></a></li><?php
+							}
+						?>
+						<?php
+							If ($Course_Author_GitHub != "") {
+								?> <li><a href="<?php echo $Course_Author_GitHub; ?>" class="icon fa-github"><span class="label">Github</span></a></li><?php
+							}
+						?>
+						<?php
+							If ($Course_Author_Link != "") {
+								?> <li><a href="<?php echo $Course_Author_Link; ?>" class="button small">Blog</a></li><?php
+							}
+						?>
 					</ul>
-
 						</p>
 
 					</div>

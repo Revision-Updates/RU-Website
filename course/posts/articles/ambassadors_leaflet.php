@@ -1,3 +1,6 @@
+<?php
+	$Course_Lead_AuthorID = '1';
+?>
 <!DOCTYPE HTML>
 <html>
 	<head>
@@ -48,6 +51,43 @@
 					<div class="box">
 						<span class="image fit"><img src="http://revisionupdates.info/downloads/Revision Updates_Ambassadors.jpg" alt="" /></span>
 						</div>
+					<div class="box">
+						<header>
+						<h3>Author</h3>
+						<p><?php echo $Course_Author; ?></p>
+						</header>
+						<p>
+							<span class="image left"><img src="http://revisionupdates.info/course/posts/articles/images/icons/<?php echo $Course_Author_Icon; ?>.png" alt="" /></span><?php echo $Course_Author_Bio; ?>
+					<ul class="icons">
+						<?php
+							If ($Course_Author_Facebook != "") {
+								?> <li><a href="<?php echo $Course_Author_Facebook; ?>" class="icon fa-facebook"><span class="label">Facebook</span></a></li><?php
+							}
+						?>
+						<?php
+							If ($Course_Author_Twitter != "") {
+								?> <li><a href="<?php echo $Course_Author_Twitter; ?>" class="icon fa-twitter"><span class="label">Twitter</span></a></li><?php
+							}
+						?>
+						<?php
+							If ($Course_Author_Google != "") {
+								?> <li><a href="<?php echo $Course_Author_Google; ?>" class="icon fa-google-plus"><span class="label">Google+</span></a></li><?php
+							}
+						?>
+						<?php
+							If ($Course_Author_GitHub != "") {
+								?> <li><a href="<?php echo $Course_Author_GitHub; ?>" class="icon fa-github"><span class="label">Github</span></a></li><?php
+							}
+						?>
+						<?php
+							If ($Course_Author_Link != "") {
+								?> <li><a href="<?php echo $Course_Author_Link; ?>" class="button small">Blog</a></li><?php
+							}
+						?>
+					</ul>
+						</p>
+
+					</div>
 					</section>
 
 			<!-- Footer -->
