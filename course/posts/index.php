@@ -95,7 +95,7 @@ If you would like to see any more information regarding the iTunes U course plea
 								<span class="image featured"><img src="images/biology_small.jpg" alt="" /></span>
 								<h3>Biology</h3>
 								<p>
-									As apart of our core education package we support Biology A-Level. Currently, our resources are aimed at the OCR B Advancing Biology specification.
+									As apart of our core education package we support Biology A-Level. Currently, our resources are aimed at the OCR A Biology specification.
 								</p>
 								<ul class="actions">
 									<li><a href="http://revisionupdates.info/course/posts/articles/biology.php" class="button alt">Learn More</a></li>
@@ -109,7 +109,7 @@ If you would like to see any more information regarding the iTunes U course plea
 								<span class="image featured"><img src="images/chemistry_small.jpg" alt="" /></span>
 								<h3>Chemistry</h3>
 								<p>
-									In our new Revision Updates core education pacakge for A-Level we are currently supporting OCR B Salters from day one.								</p>
+									In our new Revision Updates core education package for A-Level we are currently supporting OCR B Salters from day one.								</p>
 								<ul class="actions">
 									<li><a href="http://revisionupdates.info/course/posts/articles/chemistry.php" class="button alt">Learn More</a></li>
 								</ul>
