@@ -1,4 +1,6 @@
 <?php
+
+	$Page_MetaID = 'course';
 	$Course_Lead_AuthorID = '1';
 	$Course_Sub_AuthorID = '';
 ?>

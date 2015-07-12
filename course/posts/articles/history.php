@@ -1,4 +1,5 @@
-	<?php
+<?php
+	$Page_MetaID = 'course';
 	$Course_Title = 'History';
 	$Course_Banner = 'history';
 	$Course_Icon = 'pic05';
@@ -6,7 +7,7 @@
 	$Course_Mantra = 'As apart of our core education package we support Biology A-Level. Currently, our resources are aimed at the OCR B Advancing Biology specification.';
 	$Course_Lead_AuthorID = '1';
 	$Course_Sub_AuthorID = '';
-	?>
+?>
 <!DOCTYPE HTML>
 	<head>
 		<title>RU iTunes U - <?php echo $Course_Title; ?></title>

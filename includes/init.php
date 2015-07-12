@@ -138,6 +138,16 @@ include('includes/tracking_info.php');
 			$Course_Sub_Author_LinkedIn = 'http://uk.linkedin.com/in/sammyherring';
 			$Course_Sub_Author_Dropbox = 'http://revisionupdates.info/sh-drop';
 		}}
+		
+#Meta Presets
+	if($Page_MetaID != "") {
+		if($Page_MetaID == "course") {
+		?> 
+		<meta name="description" content="Revision Updates iTunes U course aimed at A-Level students. For the next generation.">
+		<meta name="keywords" content="Revision~Updates,Revision,Updates,Exams,Students,Learning,Education,iTunesU,Course">
+		<?php
+		}}
+
 ?>
 <!--<base target="_blank">-->
 <script src='http://code.jquery.com/jquery-latest.min.js' type='text/javascript'></script>

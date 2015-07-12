@@ -1,3 +1,6 @@
+<?php
+	$Page_MetaID = 'course';
+?>
 <!DOCTYPE HTML>
 <html>
 	<head>

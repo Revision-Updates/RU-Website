@@ -1,4 +1,5 @@
-	<?php
+<?php
+	$Page_MetaID = 'course';
 	$Course_Title = 'Chemistry';
 	$Course_Banner = 'chemistry';
 	$Course_Icon = 'chem';
@@ -6,7 +7,7 @@
 	$Course_Mantra = 'In our new Revision Updates core education package for A-Level we are currently supporting OCR B Salters from day one.';
 	$Course_Lead_AuthorID = '2';
 	$Course_Sub_AuthorID = '3';
-	?>
+?>
 <!DOCTYPE HTML>
 	<head>
 		<title>RU iTunes U - <?php echo $Course_Title; ?></title>
