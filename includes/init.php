@@ -130,6 +130,7 @@ include('includes/tracking_info.php');
 			$Course_Sub_Author_Dropbox = 'http://revisionupdates.info/sh-drop';
 		}}
 ?>
+<base target="_blank">
 <script src='http://code.jquery.com/jquery-latest.min.js' type='text/javascript'></script>
 <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
 <script>
