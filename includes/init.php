@@ -10,10 +10,11 @@ include('includes/tracking_info.php');
 			#Course Author 1 Settings - Sammy Herring
 			$Course_Author = 'Sammy Herring';
 			$Author_Type = 'Lead ';
+			$Author_Prefix = ' - Content Director';
 			$Course_Author_Link = 'http://sammyherring.co.uk';
 			$Course_Author_Email = 'sammy_herring@revisionupdates.info';
 			$Course_Author_Icon = 'sh_icon';
-			$Course_Author_Bio = 'Web Developer working <a href="http://sammyherring.co.uk">freelance</a> operating in Kent and CEO of <a href="http://social-servers.co.uk">Social Systems</a>. Studying Mathematics (incl. FP1), Physics and Computer Science. While overseeing <a href="https://twitter.com/revisionupdates">@RevisionUpdates</a>.';
+			$Course_Author_Bio = 'Web Developer working <a href="http://sammyherring.co.uk">freelance</a> operating in Kent and CEO of <a href="http://social-servers.co.uk">Social Systems</a>. Studying Mathematics (incl. FP1), Physics and Computer Science. While working as content director for <a href="https://twitter.com/revisionupdates">@RevisionUpdates</a>.';
 			$Course_Author_Facebook = 'http://facebook.com/sammyherringsocial';
 			$Course_Author_Twitter = 'http://twitter.com/sammy_herring';
 			$Course_Author_Google = 'https://plus.google.com/117609819134494645136/';
@@ -25,6 +26,7 @@ include('includes/tracking_info.php');
 			#Course Author 2 Settings - Toby Maskell
 			$Course_Author = 'Toby Maskell';
 			$Author_Type = 'Lead ';
+			$Author_Prefix = '';
 			$Course_Author_Link = '';
 			$Course_Author_Email = 'toby_maskell@revisionupdates.info';
 			$Course_Author_Icon = 'tm_icon';
@@ -40,6 +42,7 @@ include('includes/tracking_info.php');
 			#Course Author 3 Settings - Ben Millbourne
 			$Course_Author = 'Ben Millbourne';
 			$Author_Type = 'Lead ';
+			$Author_Prefix = '';
 			$Course_Author_Link = '';
 			$Course_Author_Email = 'ben_millbourne@revisionupdates.info';
 			$Course_Author_Icon = 'bm_icon';
@@ -55,10 +58,12 @@ include('includes/tracking_info.php');
 			#Course Author Default Settings - Sammy Herring
 			$Course_Author = 'Sammy Herring';
 			$Author_Type = 'Lead ';
+			$Author_Prefix = '';
+			$Author_Prefix = ' - Content Director';
 			$Course_Author_Link = 'http://sammyherring.co.uk';
 			$Course_Author_Email = 'sammy_herring@revisionupdates.info';
 			$Course_Author_Icon = 'sh_icon';
-			$Course_Author_Bio = 'Web Developer working <a href="http://sammyherring.co.uk">freelance</a> operating in Kent and CEO of <a href="http://social-servers.co.uk">Social Systems</a>. Studying Mathematics (incl. FP1), Physics and Computer Science. While overseeing <a href="https://twitter.com/revisionupdates">@RevisionUpdates</a>.';
+			$Course_Author_Bio = 'Web Developer working <a href="http://sammyherring.co.uk">freelance</a> operating in Kent and CEO of <a href="http://social-servers.co.uk">Social Systems</a>. Studying Mathematics (incl. FP1), Physics and Computer Science. While working as content director for <a href="https://twitter.com/revisionupdates">@RevisionUpdates</a>.';
 			$Course_Author_Facebook = 'http://facebook.com/sammyherringsocial';
 			$Course_Author_Twitter = 'http://twitter.com/sammy_herring';
 			$Course_Author_Google = 'https://plus.google.com/117609819134494645136/';
@@ -73,10 +78,11 @@ include('includes/tracking_info.php');
 			#Course Sub Author 1 Settings - Sammy Herring
 			$Course_Sub_Author = 'Sammy Herring';
 			$Author_Sub_Type = 'Lead ';
+			$Author_Sub_Prefix = ' - Content Director';
 			$Course_Sub_Author_Link = 'http://sammyherring.co.uk';
 			$Course_Sub_Author_Email = 'sammy_herring@revisionupdates.info';
 			$Course_Sub_Author_Icon = 'sh_icon';
-			$Course_Sub_Author_Bio = 'Web Developer working <a href="http://sammyherring.co.uk">freelance</a> operating in Kent and CEO of <a href="http://social-servers.co.uk">Social Systems</a>. Studying Mathematics (incl. FP1), Physics and Computer Science. While overseeing <a href="https://twitter.com/revisionupdates">@RevisionUpdates</a>.';
+			$Course_Sub_Author_Bio = 'Web Developer working <a href="http://sammyherring.co.uk">freelance</a> operating in Kent and CEO of <a href="http://social-servers.co.uk">Social Systems</a>. Studying Mathematics (incl. FP1), Physics and Computer Science. While working as content director for <a href="https://twitter.com/revisionupdates">@RevisionUpdates</a>.';
 			$Course_Sub_Author_Facebook = 'http://facebook.com/sammyherringsocial';
 			$Course_Sub_Author_Twitter = 'http://twitter.com/sammy_herring';
 			$Course_Sub_Author_Google = 'https://plus.google.com/117609819134494645136/';
@@ -88,6 +94,7 @@ include('includes/tracking_info.php');
 			#Course Sub Author 2 Settings - Toby Maskell
 			$Course_Sub_Author = 'Toby Maskell';
 			$Author_Sub_Type = 'Lead ';
+			$Author_Sub_Prefix = '';
 			$Course_Sub_Author_Link = '';
 			$Course_Sub_Author_Email = 'toby_maskell@revisionupdates.info';
 			$Course_Sub_Author_Icon = 'tm_icon';
@@ -103,6 +110,7 @@ include('includes/tracking_info.php');
 			#Course Sub Author 3 Settings - Ben Millbourne
 			$Course_Sub_Author = 'Ben Millbourne';
 			$Author_Sub_Type = 'Lead ';
+			$Author_Sub_Prefix = '';
 			$Course_Sub_Author_Link = '';
 			$Course_Sub_Author_Email = 'ben_millbourne@revisionupdates.info';
 			$Course_Sub_Author_Icon = 'bm_icon';
@@ -118,10 +126,11 @@ include('includes/tracking_info.php');
 			#Course Sub Author Default Settings - Sammy Herring
 			$Course_Sub_Author = 'Sammy Herring';
 			$Author_Sub_Type = 'Lead ';
+			$Author_Sub_Prefix = ' - Content Director';
 			$Course_Sub_Author_Link = 'http://sammyherring.co.uk';
 			$Course_Sub_Author_Email = 'sammy_herring@revisionupdates.info';
 			$Course_Sub_Author_Icon = 'sh_icon';
-			$Course_Sub_Author_Bio = 'Web Developer working <a href="http://sammyherring.co.uk">freelance</a> operating in Kent and CEO of <a href="http://social-servers.co.uk">Social Systems</a>. Studying Mathematics (incl. FP1), Physics and Computer Science. While overseeing <a href="https://twitter.com/revisionupdates">@RevisionUpdates</a>.';
+			$Course_Sub_Author_Bio = 'Web Developer working <a href="http://sammyherring.co.uk">freelance</a> operating in Kent and CEO of <a href="http://social-servers.co.uk">Social Systems</a>. Studying Mathematics (incl. FP1), Physics and Computer Science. While working as content director for <a href="https://twitter.com/revisionupdates">@RevisionUpdates</a>.';
 			$Course_Sub_Author_Facebook = 'http://facebook.com/sammyherringsocial';
 			$Course_Sub_Author_Twitter = 'http://twitter.com/sammy_herring';
 			$Course_Sub_Author_Google = 'https://plus.google.com/117609819134494645136/';
@@ -130,7 +139,7 @@ include('includes/tracking_info.php');
 			$Course_Sub_Author_Dropbox = 'http://revisionupdates.info/sh-drop';
 		}}
 ?>
-<base target="_blank">
+<!--<base target="_blank">-->
 <script src='http://code.jquery.com/jquery-latest.min.js' type='text/javascript'></script>
 <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
 <script>
