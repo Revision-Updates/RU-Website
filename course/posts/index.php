@@ -26,6 +26,22 @@
 									<li><a href="http://revisionupdates.info/ambassadors">Ambassadors</a></li>
 									<li><a href="http://revisionupdates.info/itunesu">iTunes U Download</a></li>
 									<li>
+										<a href="http://revisionupdates.info/course/posts">Posts</a>
+										<ul>
+										<li><a href="http://revisionupdates.info/course/posts/articles/biology.php">Biology</a></li>
+										<li><a href="http://revisionupdates.info/course/posts/articles/chemistry.php">Chemistry</a></li>
+										<li><a href="http://revisionupdates.info/course/posts/articles/physics.php">Physics</a></li>
+										<li><a href="http://revisionupdates.info/course/posts/articles/mathematics.php">Mathematics</a></li>
+										<li><a href="http://revisionupdates.info/course/posts/articles/further-mathematics.php">Further Mathematics</a></li>
+										<li><a href="http://revisionupdates.info/course/posts/articles/computing.php">Computing</a></li>
+										<li><a href="http://revisionupdates.info/course/posts/articles/english-literature.php">English Literature</a></li>
+										<li><a href="http://revisionupdates.info/course/posts/articles/forensics.php">Forensics</a></li>
+										<li><a href="http://revisionupdates.info/course/posts/articles/french.php">French</a></li>
+										<li><a href="http://revisionupdates.info/course/posts/articles/geography.php">Geography</a></li>
+										<li><a href="http://revisionupdates.info/course/posts/articles/history.php">History</a></li>
+										</ul>
+									</li>
+									<li>
 										<a>Admin</a>
 										<ul>
 											<li><a href="http://revisionupdates.info/admin">Slack</a></li>
@@ -59,20 +75,20 @@ If you would like to see any more information regarding the iTunes U course plea
 						</p>
 						<div class="row">
 							<div class="6u 12u(mobilep)">
-								<h3>Supported Subjects</h3>
+								<h3>Supported Courses</h3>
 								<p>
 									<ul>
-										<li>Biology</li>
-										<li>Chemistry</li>
-										<li>Physics</li>
-										<li>Mathematics</li>
-										<li>Further Mathematics</li>
-										<li>Computing</li>
-										<li>English Literature</li>
-										<li>Forensics</li>
-										<li>French</li>
-										<li>Geography</li>
-										<li>History</li>
+										<li><a href="http://revisionupdates.info/course/posts/articles/biology.php">Biology A (OCR) (GCE)</a></li>
+										<li><a href="http://revisionupdates.info/course/posts/articles/chemistry.php">Chemistry B (Salters) (OCR) (GCE)</a></li>
+										<li><a href="http://revisionupdates.info/course/posts/articles/physics.php">Physics A (OCR) (GCE)</a></li>
+										<li><a href="http://revisionupdates.info/course/posts/articles/mathematics.php">Mathematics (Edexcel) (GCE)</a></li>
+										<li><a href="http://revisionupdates.info/course/posts/articles/further-mathematics.php">Further Mathematics (Edexcel) (GCE)</a></li>
+										<li><a href="http://revisionupdates.info/course/posts/articles/computing.php">Computing (OCR) (GCE)</a></li>
+										<li><a href="http://revisionupdates.info/course/posts/articles/english-literature.php">English Literature (GCE)</a></li>
+										<li><a href="http://revisionupdates.info/course/posts/articles/forensics.php">Forensics (OCR) (GCE)</a></li>
+										<li><a href="http://revisionupdates.info/course/posts/articles/french.php">French (GCE)</a></li>
+										<li><a href="http://revisionupdates.info/course/posts/articles/geography.php">Geography (GCE)</a></li>
+										<li><a href="http://revisionupdates.info/course/posts/articles/history.php">History (GCE)</a></li>
 									</ul>
 								</p>
 							</div>
