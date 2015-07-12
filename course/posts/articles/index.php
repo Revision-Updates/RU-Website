@@ -45,7 +45,6 @@
 					<header>
 						<h2>Articles</h2>
 						<p>Uh-oh! You need to go to the exact page... We'll <a href="http://revisionupdates.info/course/posts">redirect</a> you...</p>
-						<p>If this is Tom, nice try. :-)</p>
 						<br></br>
 						<span class="icon major fa-cloud accent1"></span> 
 						<span class="icon major fa-code accent2"></span> 
