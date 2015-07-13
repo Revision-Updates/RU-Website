@@ -2,7 +2,7 @@
 	$Page_MetaID = 'course';
 	$Course_Title = 'Geography';
 	$Course_Banner = 'geography';
-	$Course_Icon = 'pic05';
+	$Course_Icon = 'geo';
 	$Course_Date = '4th July 2015';
 	$Course_Mantra = 'As apart of our core education package we support Biology A-Level. Currently, our resources are aimed at the OCR B Advancing Biology specification.';
 	$Course_Lead_AuthorID = '1';
