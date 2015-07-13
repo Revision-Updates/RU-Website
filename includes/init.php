@@ -21,12 +21,12 @@ include('includes/tracking_info.php');
 			$Course_Author_GitHub = 'https://twitter.com/Sammy_Herring';
 			$Course_Author_LinkedIn = 'http://uk.linkedin.com/in/sammyherring';
 			$Course_Author_Dropbox = 'http://revisionupdates.info/sh-drop';
-	 
+			
 		} elseif($Course_Lead_AuthorID == '2') {
 			#Course Author 2 Settings - Toby Maskell
 			$Course_Author = 'Toby Maskell';
 			$Author_Type = 'Lead ';
-			$Author_Prefix = '';
+			$Author_Prefix = ' - Administrator';
 			$Course_Author_Link = '';
 			$Course_Author_Email = 'toby_maskell@revisionupdates.info';
 			$Course_Author_Icon = 'tm_icon';
@@ -42,7 +42,7 @@ include('includes/tracking_info.php');
 			#Course Author 3 Settings - Ben Millbourne
 			$Course_Author = 'Ben Millbourne';
 			$Author_Type = 'Lead ';
-			$Author_Prefix = '';
+			$Author_Prefix = ' - Administrator';
 			$Course_Author_Link = '';
 			$Course_Author_Email = 'ben_millbourne@revisionupdates.info';
 			$Course_Author_Icon = 'bm_icon';
@@ -94,7 +94,7 @@ include('includes/tracking_info.php');
 			#Course Sub Author 2 Settings - Toby Maskell
 			$Course_Sub_Author = 'Toby Maskell';
 			$Author_Sub_Type = 'Lead ';
-			$Author_Sub_Prefix = '';
+			$Author_Sub_Prefix = ' - Administrator';
 			$Course_Sub_Author_Link = '';
 			$Course_Sub_Author_Email = 'toby_maskell@revisionupdates.info';
 			$Course_Sub_Author_Icon = 'tm_icon';
@@ -110,7 +110,7 @@ include('includes/tracking_info.php');
 			#Course Sub Author 3 Settings - Ben Millbourne
 			$Course_Sub_Author = 'Ben Millbourne';
 			$Author_Sub_Type = 'Lead ';
-			$Author_Sub_Prefix = '';
+			$Author_Sub_Prefix = ' - Administrator';
 			$Course_Sub_Author_Link = '';
 			$Course_Sub_Author_Email = 'ben_millbourne@revisionupdates.info';
 			$Course_Sub_Author_Icon = 'bm_icon';
