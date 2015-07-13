@@ -20,3 +20,4 @@ The revision updates website interface and documentation.
  - Course Articles now supported
  - PHP based user tracking for analytics
  - Improved UI animations
+ - XML Feed (with support for announcements, more coming soon) for Apple News publishing and RSS

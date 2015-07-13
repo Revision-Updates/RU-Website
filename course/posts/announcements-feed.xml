@@ -1,0 +1,16 @@
+<rss version="2.0">
+<channel>
+	<title>Revision Updates - Announcements</title>
+	<webMaster>sammy_herring@revisionupdates.info</webMaster>
+	<link>http://revisionupdates.info/course/posts/</link>
+	<description>Introducing the ultimate iTunes U Course 
+for all of your A-Level revision needs. This feed is aimed specifically at our announcements regarding the progression and any developments of our iTunes U Web course.</description>
+	<item>
+		<title>Announcement</title>
+		<category>General</category>
+		<description>Just to let you know, we will be publishing Revision Updates A-Level Edition officially as apart of our <strong>public release</strong> on the 27th August 2015 (although we will start adding people from the 20th). As apart of the release with v2.0 revision updates we will be offering a new standard of resources that are specifically designed for all of your A-Level needs. We have an ever-expanding database of resources that we will be making available from day one.
+		</description>
+		<link>http://revisionupdates.info/course/posts/</link>
+	</item>
+</channel>
+</rss>
