@@ -12,12 +12,12 @@
 		vertical-align: baseline;
 	}
 
-	.icon {
+	.icon.rss {
 		text-decoration: none;
 		position: relative;
 	}
 
-		.icon:before {
+		.icon.rss:before {
 			-moz-osx-font-smoothing: grayscale;
 			-webkit-font-smoothing: antialiased;
 			font-family: FontAwesome;
@@ -26,7 +26,7 @@
 			text-transform: none !important;
 		}
 
-		.icon.circle {
+		.icon.rss.circle {
 			-moz-transition: all 0.2s ease-in-out;
 			-webkit-transition: all 0.2s ease-in-out;
 			-ms-transition: all 0.2s ease-in-out;
@@ -44,17 +44,17 @@
 			width: 1.6875em;
 		}
 
-			.icon.circle:hover {
+			.icon.rss.circle:hover {
 				top: -0.2em;
 			}
 
 	
-	.icon.circle.fa-rss {
+	.icon.rss.circle.fa-rss {
 		background: #e69a9a;
 		color: #fff;
 	}
 
-		.icon.circle.fa-rss:hover {
+		.icon.rss.circle.fa-rss:hover {
 				background: #e6b1b1;
 		}
 
