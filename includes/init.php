@@ -46,7 +46,7 @@ include('includes/tracking_info.php');
 			$Course_Author_Link = '';
 			$Course_Author_Email = 'ben_millbourne@revisionupdates.info';
 			$Course_Author_Icon = 'bm_icon';
-			$Course_Author_Bio = 'Hello, I am currently a Sixth Form student at Homewood School & Sixth Form Centre where I am studying Chemistry, Biology, and Forensics. In addition to this, I am also mentoring students in KS3 and working as a Learning Support Assistant (LSA). I will be working towards certification to become a trained Learning Support Assistant which could lead to a teaching role later in life. I am an administrator for a revision group, set up by a colleague, which supports students who want to achieve the highest grade they can; we also offer iTunes U courses to assist further with this. ';
+			$Course_Author_Bio = 'Hello, I am currently a Sixth Form student at Homewood School & Sixth Form Centre where I am studying <a href="http://revisionupdates.info/course/posts/articles/biology.php">Biology</a>, <a href="http://revisionupdates.info/course/posts/articles/chemistry.php">Chemistry</a> and <a href="http://revisionupdates.info/course/posts/articles/forensics.php">Forensics</a>. In addition to this, I am also mentoring students in KS3 and working as a Learning Support Assistant (LSA). I will be working towards certification to become a trained Learning Support Assistant which could lead to a teaching role later in life. I am an administrator for a revision group, set up by a colleague, which supports students who want to achieve the highest grade they can; we also offer <a href="http://revisionupdates.info/course">iTunes U course</a> to assist further with this. ';
 			$Course_Author_Facebook = 'https://www.facebook.com/ben.millbourne';
 			$Course_Author_Twitter = 'https://twitter.com/BMillbourne';
 			$Course_Author_Google = '';
@@ -114,7 +114,7 @@ include('includes/tracking_info.php');
 			$Course_Sub_Author_Link = '';
 			$Course_Sub_Author_Email = 'ben_millbourne@revisionupdates.info';
 			$Course_Sub_Author_Icon = 'bm_icon';
-			$Course_Sub_Author_Bio = 'Hello, I am currently a Sixth Form student at Homewood School & Sixth Form Centre where I am studying Chemistry, Biology, and Forensics. In addition to this, I am also mentoring students in KS3 and working as a Learning Support Assistant (LSA). I will be working towards certification to become a trained Learning Support Assistant which could lead to a teaching role later in life. I am an administrator for a revision group, set up by a colleague, which supports students who want to achieve the highest grade they can; we also offer iTunes U courses to assist further with this. ';
+			$Course_Sub_Author_Bio = 'Hello, I am currently a Sixth Form student at Homewood School & Sixth Form Centre where I am studying <a href="http://revisionupdates.info/course/posts/articles/biology.php">Biology</a>, <a href="http://revisionupdates.info/course/posts/articles/chemistry.php">Chemistry</a> and <a href="http://revisionupdates.info/course/posts/articles/forensics.php">Forensics</a>. In addition to this, I am also mentoring students in KS3 and working as a Learning Support Assistant (LSA). I will be working towards certification to become a trained Learning Support Assistant which could lead to a teaching role later in life. I am an administrator for a revision group, set up by a colleague, which supports students who want to achieve the highest grade they can; we also offer <a href="http://revisionupdates.info/course">iTunes U course</a> to assist further with this. ';
 			$Course_Sub_Author_Facebook = 'https://www.facebook.com/ben.millbourne';
 			$Course_Sub_Author_Twitter = 'https://twitter.com/BMillbourne';
 			$Course_Sub_Author_Google = '';
@@ -151,7 +151,7 @@ include('includes/tracking_info.php');
 ?>
 <!--<base target="_blank">-->
 <script src='http://code.jquery.com/jquery-latest.min.js' type='text/javascript'></script>
-<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
 <link rel="alternate" type="application/rss+xml" href="http://revisionupdates.info/course/posts/announcements-feed.xml" title="Revision Updates - Announcements">
 <script>
 			$(document).ready(function(){
