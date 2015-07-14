@@ -152,7 +152,7 @@ include('includes/tracking_info.php');
 <!--<base target="_blank">-->
 <script src='http://code.jquery.com/jquery-latest.min.js' type='text/javascript'></script>
 <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
-<link rel="alternate" type="application/rss+xml" href="http://revisionupdates.info/course/posts/announcements-feed.xml" title="Revision Updates - Announcements">
+<link rel="alternate" type="application/rss+xml" href="http://revisionupdates.info/course/posts/feeds/announcements.rss" title="Revision Updates - Announcements">
 <script>
 			$(document).ready(function(){
 			$('a[href^="#"]').on('click',function (e) {

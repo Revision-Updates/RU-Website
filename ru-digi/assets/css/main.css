@@ -1899,6 +1899,15 @@
 					background: #78d6c5;
 				}
 				
+			.icon.circle.fa-rss {
+				background: #e69a9a;
+				color: #fff;
+			}
+
+				.icon.circle.fa-rss:hover {
+					background: #e6b1b1;
+				}
+				
 			.icon.circle.fa-paper-plane-o {
 				background: #E6CB9B;
 				color: #fff;
