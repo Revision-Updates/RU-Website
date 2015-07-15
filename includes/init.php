@@ -153,6 +153,17 @@ include('includes/tracking_info.php');
 <script src='http://code.jquery.com/jquery-latest.min.js' type='text/javascript'></script>
 <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
 <link rel="alternate" type="application/rss+xml" href="http://revisionupdates.info/course/posts/feeds/announcements.rss" title="Revision Updates - Announcements">
+<link rel="alternate" type="application/rss+xml" href="http://revisionupdates.info/course/posts/feeds/biology.rss" title="Revision Updates - Biology">
+<link rel="alternate" type="application/rss+xml" href="http://revisionupdates.info/course/posts/feeds/chemistry.rss" title="Revision Updates - Chemistry">
+<link rel="alternate" type="application/rss+xml" href="http://revisionupdates.info/course/posts/feeds/physics.rss" title="Revision Updates - Physics">
+<link rel="alternate" type="application/rss+xml" href="http://revisionupdates.info/course/posts/feeds/mathematics.rss" title="Revision Updates - Mathematics">
+<link rel="alternate" type="application/rss+xml" href="http://revisionupdates.info/course/posts/feeds/further-mathematics.rss" title="Revision Updates - Further Mathematics">
+<link rel="alternate" type="application/rss+xml" href="http://revisionupdates.info/course/posts/feeds/computing.rss" title="Revision Updates - Computing">
+<link rel="alternate" type="application/rss+xml" href="http://revisionupdates.info/course/posts/feeds/english-literature.rss" title="Revision Updates - English Literature">
+<link rel="alternate" type="application/rss+xml" href="http://revisionupdates.info/course/posts/feeds/forensics.rss" title="Revision Updates - Forensics">
+<link rel="alternate" type="application/rss+xml" href="http://revisionupdates.info/course/posts/feeds/french.rss" title="Revision Updates - French">
+<link rel="alternate" type="application/rss+xml" href="http://revisionupdates.info/course/posts/feeds/geography.rss" title="Revision Updates - Geography">
+<link rel="alternate" type="application/rss+xml" href="http://revisionupdates.info/course/posts/feeds/history.rss" title="Revision Updates - History">
 <script>
 			$(document).ready(function(){
 			$('a[href^="#"]').on('click',function (e) {

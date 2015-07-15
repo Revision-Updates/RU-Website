@@ -1,6 +1,6 @@
 			<!-- Header -->
 				<header id="header">
-					<h1><a href="<?php echo $Course_Banner; ?>.php">RU iTunes U</a> by Revision Updates</h1>
+					<h1><a href="<?php echo $Course_Slug; ?>.php">RU iTunes U</a> by Revision Updates</h1>
 					<nav id="nav">
 						<ul>
 							<li><a href="#page-wrapper">Welcome</a></li>

@@ -2,8 +2,9 @@
 	$Page_MetaID = 'course';
 	$Course_Title = 'Biology';
 	$Course_Banner = 'biology';
+	$Course_Slug = 'biology';
 	$Course_Icon = 'bio';
-	$Course_Date = '4th July 2015';
+	$Course_Date = '15th July 2015';
 	$Course_Mantra = 'As apart of our core education package we support Biology A-Level. Currently, our resources are aimed at the OCR A Biology specification.';
 	$Course_Lead_AuthorID = '2';
 	$Course_Sub_AuthorID = '3';
@@ -34,7 +35,7 @@
 					<div class="box">
 						<span class="image featured"><img src="http://revisionupdates.info/course/posts/images/<?php echo $Course_Banner; ?>_banner.jpg" alt="" /></span>
 						<header>
-						<h3>Announcements</h3>
+						<h3>Announcements <a href="http://revisionupdates.info/course/posts/feeds/biology.rss" class="icon rss circle fa-rss"><span class="label">RSS</span></a></h3>
 						<hp>Last Updated: <?php echo $Course_Date; ?></hp>
 						</header>
 						<p>

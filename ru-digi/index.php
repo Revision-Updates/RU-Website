@@ -115,7 +115,7 @@
 									</p>
 									<footer>
 										<ul class="buttons">
-											<li><a href="http://revisionupdates.info/downloads/ru-releases.ics" class="button">Download 15' Calendar</a></li>
+											<li><a href="http://revisionupdates.info/downloads/ru-releases-14-15.ics" class="button">Download 15' Calendar</a></li>
 										</ul>
 									</footer>
 
