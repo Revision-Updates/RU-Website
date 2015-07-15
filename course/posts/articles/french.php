@@ -1,5 +1,6 @@
 <?php
 	$Page_MetaID = 'course';
+	$RSS_MetaID = 'french';
 	$Course_Title = 'French';
 	$Course_Banner = 'french';
 	$Course_Slug = 'french';

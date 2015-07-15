@@ -1,5 +1,7 @@
 <?php
 	$Page_MetaID = 'course';
+	$Course_Lead_AuthorID = '1';
+	$Course_Date = '15th July 2015'
 ?>
 <!DOCTYPE HTML>
 <html>
@@ -69,6 +71,7 @@
 					<div class="box">
 						<span class="image featured"><img src="images/pic01.jpg" alt="" /></span>
 						<h3>Announcements <a href="http://revisionupdates.info/course/posts/feeds/announcements.rss" class="icon rss circle fa-rss"><span class="label">Announcements RSS</span></a></h3>
+						<hp>Last Updated: <?php echo $Course_Date; ?></hp>
 						<p>
 							<span class="image left"><img src="images/v2_ico.png" alt="" /></span>Just to let you know, we will be publishing Revision Updates A-Level Edition officially as apart of our <strong>public release</strong> on the 27th August 2015 (although we will start adding people from the 20th).
 
@@ -297,6 +300,7 @@ If you would like to see any more information regarding the iTunes U course plea
 
 						</div>
 					</div>
+					<?php include '../../includes/article_author.php'; ?>
 					</section>
 					</div>
 

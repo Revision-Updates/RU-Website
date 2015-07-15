@@ -1,5 +1,6 @@
 <?php
 	$Page_MetaID = 'course';
+	$RSS_MetaID = 'geography';
 	$Course_Title = 'Geography';
 	$Course_Banner = 'geography';
 	$Course_Slug = 'geography';

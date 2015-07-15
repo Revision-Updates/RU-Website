@@ -1,7 +1,7 @@
 <?php
 error_reporting(0);
-include('includes/web_clip.php');
-include('includes/tracking_info.php');
+include($_SERVER['DOCUMENT_ROOT']."/includes/web_clip.php");
+include($_SERVER['DOCUMENT_ROOT']."/includes/tracking_info.php");
 
 #Author Presets
 #Main Author Presets
@@ -148,22 +148,72 @@ include('includes/tracking_info.php');
 		<?php
 		}}
 
+#RSS Feed Meta Links
+ 	if($RSS_MetaID == "") {
+		?>
+		<link rel="alternate" type="application/rss+xml" href="http://revisionupdates.info/course/posts/feeds/announcements.rss" title="Revision Updates - Announcements">
+		<link rel="alternate" type="application/rss+xml" href="http://revisionupdates.info/course/posts/feeds/biology.rss" title="Revision Updates - Biology">
+		<link rel="alternate" type="application/rss+xml" href="http://revisionupdates.info/course/posts/feeds/chemistry.rss" title="Revision Updates - Chemistry">
+		<link rel="alternate" type="application/rss+xml" href="http://revisionupdates.info/course/posts/feeds/physics.rss" title="Revision Updates - Physics">
+		<link rel="alternate" type="application/rss+xml" href="http://revisionupdates.info/course/posts/feeds/mathematics.rss" title="Revision Updates - Mathematics">
+		<link rel="alternate" type="application/rss+xml" href="http://revisionupdates.info/course/posts/feeds/further-mathematics.rss" title="Revision Updates - Further Mathematics">
+		<link rel="alternate" type="application/rss+xml" href="http://revisionupdates.info/course/posts/feeds/computing.rss" title="Revision Updates - Computing">
+		<link rel="alternate" type="application/rss+xml" href="http://revisionupdates.info/course/posts/feeds/english-literature.rss" title="Revision Updates - English Literature">
+		<link rel="alternate" type="application/rss+xml" href="http://revisionupdates.info/course/posts/feeds/forensics.rss" title="Revision Updates - Forensics">
+		<link rel="alternate" type="application/rss+xml" href="http://revisionupdates.info/course/posts/feeds/french.rss" title="Revision Updates - French">
+		<link rel="alternate" type="application/rss+xml" href="http://revisionupdates.info/course/posts/feeds/geography.rss" title="Revision Updates - Geography">
+		<link rel="alternate" type="application/rss+xml" href="http://revisionupdates.info/course/posts/feeds/history.rss" title="Revision Updates - History">
+		<?php
+ 	} elseif($RSS_MetaID == "biology") {
+	 	?>
+	 	<link rel="alternate" type="application/rss+xml" href="http://revisionupdates.info/course/posts/feeds/biology.rss" title="Revision Updates - Biology">
+	 	<?php
+	} elseif($RSS_MetaID == "chemistry") {
+	 	?>
+	 	<link rel="alternate" type="application/rss+xml" href="http://revisionupdates.info/course/posts/feeds/chemistry.rss" title="Revision Updates - Chemistry">
+	 	<?php
+	} elseif($RSS_MetaID == "physics") {
+	 	?>
+	 	<link rel="alternate" type="application/rss+xml" href="http://revisionupdates.info/course/posts/feeds/physics.rss" title="Revision Updates - Physics">
+	 	<?php
+	} elseif($RSS_MetaID == "mathematics") {
+	 	?>
+	 	<link rel="alternate" type="application/rss+xml" href="http://revisionupdates.info/course/posts/feeds/mathematics.rss" title="Revision Updates - Mathematics">
+	 	<?php
+	} elseif($RSS_MetaID == "further-mathematics") {
+	 	?>
+	 	<link rel="alternate" type="application/rss+xml" href="http://revisionupdates.info/course/posts/feeds/further-mathematics.rss" title="Revision Updates - Further Mathematics">
+	 	<?php
+	} elseif($RSS_MetaID == "computing") {
+	 	?>
+	 	<link rel="alternate" type="application/rss+xml" href="http://revisionupdates.info/course/posts/feeds/computing.rss" title="Revision Updates - Computing">
+	 	<?php
+	} elseif($RSS_MetaID == "english-literature") {
+	 	?>
+	 	<link rel="alternate" type="application/rss+xml" href="http://revisionupdates.info/course/posts/feeds/english-literature.rss" title="Revision Updates - English Literature">
+	 	<?php
+	} elseif($RSS_MetaID == "forensics") {
+	 	?>
+	 	<link rel="alternate" type="application/rss+xml" href="http://revisionupdates.info/course/posts/feeds/forensics.rss" title="Revision Updates - Forensics">
+	 	<?php
+	} elseif($RSS_MetaID == "geography") {
+	 	?>
+	 	<link rel="alternate" type="application/rss+xml" href="http://revisionupdates.info/course/posts/feeds/geography.rss" title="Revision Updates - Geography">
+	 	<?php
+	} elseif($RSS_MetaID == "history") {
+	 	?>
+	 	<link rel="alternate" type="application/rss+xml" href="http://revisionupdates.info/course/posts/feeds/history.rss" title="Revision Updates - History">
+	 	<?php
+	} else {
+	 	?>
+	 	<link rel="alternate" type="application/rss+xml" href="http://revisionupdates.info/course/posts/feeds/announcements.rss" title="Revision Updates - Announcements">
+	 	<?php
+	}
+
 ?>
 <!--<base target="_blank">-->
 <script src='http://code.jquery.com/jquery-latest.min.js' type='text/javascript'></script>
 <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
-<link rel="alternate" type="application/rss+xml" href="http://revisionupdates.info/course/posts/feeds/announcements.rss" title="Revision Updates - Announcements">
-<link rel="alternate" type="application/rss+xml" href="http://revisionupdates.info/course/posts/feeds/biology.rss" title="Revision Updates - Biology">
-<link rel="alternate" type="application/rss+xml" href="http://revisionupdates.info/course/posts/feeds/chemistry.rss" title="Revision Updates - Chemistry">
-<link rel="alternate" type="application/rss+xml" href="http://revisionupdates.info/course/posts/feeds/physics.rss" title="Revision Updates - Physics">
-<link rel="alternate" type="application/rss+xml" href="http://revisionupdates.info/course/posts/feeds/mathematics.rss" title="Revision Updates - Mathematics">
-<link rel="alternate" type="application/rss+xml" href="http://revisionupdates.info/course/posts/feeds/further-mathematics.rss" title="Revision Updates - Further Mathematics">
-<link rel="alternate" type="application/rss+xml" href="http://revisionupdates.info/course/posts/feeds/computing.rss" title="Revision Updates - Computing">
-<link rel="alternate" type="application/rss+xml" href="http://revisionupdates.info/course/posts/feeds/english-literature.rss" title="Revision Updates - English Literature">
-<link rel="alternate" type="application/rss+xml" href="http://revisionupdates.info/course/posts/feeds/forensics.rss" title="Revision Updates - Forensics">
-<link rel="alternate" type="application/rss+xml" href="http://revisionupdates.info/course/posts/feeds/french.rss" title="Revision Updates - French">
-<link rel="alternate" type="application/rss+xml" href="http://revisionupdates.info/course/posts/feeds/geography.rss" title="Revision Updates - Geography">
-<link rel="alternate" type="application/rss+xml" href="http://revisionupdates.info/course/posts/feeds/history.rss" title="Revision Updates - History">
 <script>
 			$(document).ready(function(){
 			$('a[href^="#"]').on('click',function (e) {

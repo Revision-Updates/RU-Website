@@ -1,5 +1,6 @@
 <?php
 	$Page_MetaID = 'course';
+	$RSS_MetaID = 'history';
 	$Course_Title = 'History';
 	$Course_Banner = 'history';
 	$Course_Slug = 'history';

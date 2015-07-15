@@ -1,5 +1,6 @@
 <?php
 	$Page_MetaID = 'course';
+	$RSS_MetaID = 'forensics';
 	$Course_Title = 'Forensics';
 	$Course_Banner = 'forensics';
 	$Course_Slug = 'forensics';

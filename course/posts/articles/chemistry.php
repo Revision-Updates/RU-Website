@@ -1,5 +1,6 @@
 <?php
 	$Page_MetaID = 'course';
+	$RSS_MetaID = 'chemistry';
 	$Course_Title = 'Chemistry';
 	$Course_Banner = 'chemistry';
 	$Course_Slug = 'chemistry';

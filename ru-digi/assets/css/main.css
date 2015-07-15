@@ -1863,6 +1863,15 @@
 					background: #829bc9;
 				}
 
+			.icon.circle.fa-linkedin {
+				background: #9173c2;
+				color: #fff;
+			}
+
+				.icon.circle.fa-linkedin:hover {
+					background: #ac83ca;
+				}
+
 			.icon.circle.fa-google-plus {
 				background: #db6b67;
 				color: #fff;
