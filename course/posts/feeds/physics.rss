@@ -9,8 +9,8 @@
 	<managingEditor>sammy_herring@revisionupdates.info (Sammy Herring)</managingEditor>
 	<webMaster>sammy_herring@revisionupdates.info (Sammy Herring)</webMaster>
 	<copyright>Copyright 2015, Revision Updates.</copyright>
-	<pubDate>Fri, 17 Jul 2015 13:55:49 GMT</pubDate>
-	<lastBuildDate>Fri, 17 Jul 2015 13:55:49 GMT</lastBuildDate>
+	<pubDate>Fri, 17 Jul 2015 17:50:34 GMT</pubDate>
+	<lastBuildDate>Fri, 17 Jul 2015 17:50:34 GMT</lastBuildDate>
 	<category>Physics</category>
 	<docs>http://blogs.law.harvard.edu/tech/rss/</docs>
 	<image>
@@ -32,8 +32,25 @@
 			http://revisionupdates.info/course/posts/articles/physics/index.php
 		</guid>
 		<description>
-			Just to let you know, we will be publishing Revision Updates A-Level Edition officially as apart of our public release on the 27th August 2015 (although we will start adding people from the 20th). As apart of the release with v2.0 revision updates we will be offering a new standard of resources that are specifically designed for all of your A-Level needs. We have an ever-expanding database of resources that we will be making available from day one.		</description>
+			Just to let you know, we will be publishing Revision Updates A-Level Edition officially as apart of our public release on the 27th August 2015 (although we will start adding people from the 20th). As apart of the release with v2.0 revision updates we will be offering a new standard of resources that are specifically designed for all of your A-Level needs. We have an ever-expanding database of resources that we will be making available from day one.
+		</description>
 		<pubDate>Wed, 15 Jul 2015 13:55:49 GMT</pubDate>
+	</item>
+	
+	<item>
+		<title>
+			Your First Practical Assessment
+		</title>
+		<link>
+			http://revisionupdates.info/course/posts/articles/physics/your-first-practical-assessment.php
+		</link>
+		<guid>
+			http://revisionupdates.info/course/posts/articles/physics/your-first-practical-assessment.php
+		</guid>
+		<description>
+			For the physics you may have already been notified about completing a 'practice' practical assessment over the holiday break. As over the next two years you will be expected to complete at least twelve of them, each logged appropriately in your lab book (which you should receive in September).
+		</description>
+		<pubDate>Fri, 17 Jul 2015 17:50:34 GMT</pubDate>
 	</item>
 </channel>
 </rss>

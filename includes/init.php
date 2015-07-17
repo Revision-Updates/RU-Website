@@ -18,7 +18,7 @@ include($_SERVER['DOCUMENT_ROOT']."/includes/tracking_info.php");
 			$Course_Author_Facebook = 'http://facebook.com/sammyherringsocial';
 			$Course_Author_Twitter = 'http://twitter.com/sammy_herring';
 			$Course_Author_Google = 'https://plus.google.com/117609819134494645136/';
-			$Course_Author_GitHub = 'https://twitter.com/Sammy_Herring';
+			$Course_Author_GitHub = 'https://github.com/SammyHerring';
 			$Course_Author_LinkedIn = 'http://uk.linkedin.com/in/sammyherring';
 			$Course_Author_Dropbox = 'http://revisionupdates.info/sh-drop';
 			
@@ -67,7 +67,7 @@ include($_SERVER['DOCUMENT_ROOT']."/includes/tracking_info.php");
 			$Course_Author_Facebook = 'http://facebook.com/sammyherringsocial';
 			$Course_Author_Twitter = 'http://twitter.com/sammy_herring';
 			$Course_Author_Google = 'https://plus.google.com/117609819134494645136/';
-			$Course_Author_GitHub = 'https://twitter.com/Sammy_Herring';
+			$Course_Author_GitHub = 'https://github.com/SammyHerring';
 			$Course_Author_LinkedIn = 'http://uk.linkedin.com/in/sammyherring';
 			$Course_Author_Dropbox = 'http://revisionupdates.info/sh-drop';
 		}}
@@ -86,7 +86,7 @@ include($_SERVER['DOCUMENT_ROOT']."/includes/tracking_info.php");
 			$Course_Sub_Author_Facebook = 'http://facebook.com/sammyherringsocial';
 			$Course_Sub_Author_Twitter = 'http://twitter.com/sammy_herring';
 			$Course_Sub_Author_Google = 'https://plus.google.com/117609819134494645136/';
-			$Course_Sub_Author_GitHub = 'https://twitter.com/Sammy_Herring';
+			$Course_Sub_Author_GitHub = 'https://github.com/SammyHerring';
 			$Course_Sub_Author_LinkedIn = 'http://uk.linkedin.com/in/sammyherring';
 			$Course_Sub_Author_Dropbox = 'http://revisionupdates.info/sh-drop';
 	 
@@ -134,7 +134,7 @@ include($_SERVER['DOCUMENT_ROOT']."/includes/tracking_info.php");
 			$Course_Sub_Author_Facebook = 'http://facebook.com/sammyherringsocial';
 			$Course_Sub_Author_Twitter = 'http://twitter.com/sammy_herring';
 			$Course_Sub_Author_Google = 'https://plus.google.com/117609819134494645136/';
-			$Course_Sub_Author_GitHub = 'https://twitter.com/Sammy_Herring';
+			$Course_Sub_Author_GitHub = 'https://github.com/SammyHerring';
 			$Course_Sub_Author_LinkedIn = 'http://uk.linkedin.com/in/sammyherring';
 			$Course_Sub_Author_Dropbox = 'http://revisionupdates.info/sh-drop';
 		}}

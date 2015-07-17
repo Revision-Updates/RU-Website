@@ -45,6 +45,22 @@
 						</p>
 
 					</div>
+					<div class="box">
+						<?php
+							$Article_1_Title = "Your First Practical Assessment";
+							$Article_1_Publishing_Date = "17th July 2015";
+							$Article_1_Permalink = "http://revisionupdates.info/course/posts/articles/physics/your-first-practical-assessment.php";
+						?>
+						<header>
+						<h3><a href="<?php echo $Article_1_Permalink; ?>"><?php echo $Article_1_Title; ?></a></h3>
+						<hp>Published: <?php echo $Article_1_Publishing_Date; ?></hp>
+						</header>
+						<p>
+							For the physics you may have already been notified about completing a <strong>'practice'</strong> practical assessment over the holiday break. As over the next two years you will be expected to complete at least twelve of them, each logged appropriately in your lab book (which you should receive in September).
+							<br></br>
+							<a href="<?php echo $Article_1_Permalink; ?>" class="button special small">Read More</a>
+						</p>
+					</div>
 					<?php include '../../../../includes/article_ad.php'; ?>
 					<?php include '../../../../includes/article_author.php'; ?>
 					</section>
