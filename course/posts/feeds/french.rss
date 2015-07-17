@@ -2,17 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
 	<title>Revision Updates - French</title>
-	<link>http://revisionupdates.info/course/posts/articles/french/index.php</link>
+	<link>http://revisionupdates.info/course/posts/articles/french/</link>
 	<atom:link href="http://revisionupdates.info/course/posts/feeds/french.rss" rel="self" type="application/rss+xml" />
 	<description>As apart of our core education package we support Biology A-Level. Currently, our resources are aimed at the OCR A Biology specification.</description>
 	<language>en-UK</language>
-	<managingEditor>sammy_herring@revisionupdates.info</managingEditor>
-	<webMaster>sammy_herring@revisionupdates.info</webMaster>
+	<managingEditor>sammy_herring@revisionupdates.info (Sammy Herring)</managingEditor>
+	<webMaster>sammy_herring@revisionupdates.info (Sammy Herring)</webMaster>
 	<copyright>Copyright 2015, Revision Updates.</copyright>
-	<pubDate>Wed, 15 Jul 2015 13:55:49 GMT</pubDate>
-	<lastBuildDate>Thu, 16 Jul 2015 22:00:00 GMT</lastBuildDate>
+	<pubDate>Fri, 17 Jul 2015 13:55:49 GMT</pubDate>
+	<lastBuildDate>Fri, 17 Jul 2015 13:55:49 GMT</lastBuildDate>
 	<category>French</category>
 	<docs>http://blogs.law.harvard.edu/tech/rss/</docs>
+	<image>
+    	<url>http://revisionupdates.info/images/favicons/favicon-144.png</url>
+		<title>Revision Updates - French</title>
+		<link>http://revisionupdates.info/course/posts/articles/french/</link>
+		<width>144</width>
+		<height>144</height>
+		<description>Revision Updates Icon</description>
+  	</image>
 	<item>
 		<title>
 			Announcement

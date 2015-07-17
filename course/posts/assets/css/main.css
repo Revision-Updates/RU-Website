@@ -2516,6 +2516,21 @@
 					border-top: 0;
 					padding-top: 0;
 				}
+				
+		ul.course {
+			list-style: none;
+			padding-left: 0;
+		}
+
+			ul.course li {
+				border-top: solid 1px #e5e5e5;
+				padding: 0.2em 0;
+			}
+
+				ul.course li:first-child {
+					border-top: 0;
+					padding-top: 0;
+				}
 
 		ul.icons {
 			cursor: default;

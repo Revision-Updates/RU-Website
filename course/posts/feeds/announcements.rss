@@ -6,13 +6,21 @@
 	<atom:link href="http://revisionupdates.info/course/posts/feeds/announcements.rss" rel="self" type="application/rss+xml" />
 	<description>Introducing the ultimate iTunes U Course for all of your A-Level revision needs. This feed is aimed specifically at our announcements regarding the progression and any developments of our iTunes U Web course.</description>
 	<language>en-UK</language>
-	<managingEditor>sammy_herring@revisionupdates.info</managingEditor>
-	<webMaster>sammy_herring@revisionupdates.info</webMaster>
+	<managingEditor>sammy_herring@revisionupdates.info (Sammy Herring)</managingEditor>
+	<webMaster>sammy_herring@revisionupdates.info (Sammy Herring)</webMaster>
 	<copyright>Copyright 2015, Revision Updates.</copyright>
-	<pubDate>Wed, 08 Jul 2015 13:55:49 GMT</pubDate>
-	<lastBuildDate>Thu, 16 Jul 2015 22:00:00 GMT</lastBuildDate>
+	<pubDate>Fri, 17 Jul 2015 13:55:49 GMT</pubDate>
+	<lastBuildDate>Fri, 17 Jul 2015 13:55:49 GMT</lastBuildDate>
 	<category>General</category>
 	<docs>http://blogs.law.harvard.edu/tech/rss/</docs>
+	<image>
+    	<url>http://revisionupdates.info/images/favicons/favicon-144.png</url>
+		<title>Revision Updates - Announcements</title>
+		<link>http://revisionupdates.info/course/posts/</link>
+		<width>144</width>
+		<height>144</height>
+		<description>Revision Updates Icon</description>
+  	</image>
 	<item>
 		<title>
 			Announcement

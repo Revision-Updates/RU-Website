@@ -41,7 +41,7 @@ If you would like to see any more information regarding the iTunes U course plea
 							<div class="6u 12u(mobilep)">
 								<h3>Supported Courses</h3>
 								<p>
-									<ul>
+									<ul class="course">
 										<li><a href="http://revisionupdates.info/course/posts/articles/biology/">Biology A (OCR) (GCE)</a></li>
 										<li><a href="http://revisionupdates.info/course/posts/articles/chemistry/">Chemistry B (Salters) (OCR) (GCE)</a></li>
 										<li><a href="http://revisionupdates.info/course/posts/articles/physics/">Physics A (OCR) (GCE)</a></li>

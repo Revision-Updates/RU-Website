@@ -2,17 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
 	<title>Revision Updates - Further Mathematics</title>
-	<link>http://revisionupdates.info/course/posts/articles/further-mathematics/index.php</link>
+	<link>http://revisionupdates.info/course/posts/articles/further-mathematics/</link>
 	<atom:link href="http://revisionupdates.info/course/posts/feeds/further-mathematics.rss" rel="self" type="application/rss+xml" />
 	<description>As apart of our core education package we support Biology A-Level. Currently, our resources are aimed at the OCR A Biology specification.</description>
 	<language>en-UK</language>
-	<managingEditor>sammy_herring@revisionupdates.info</managingEditor>
-	<webMaster>sammy_herring@revisionupdates.info</webMaster>
+	<managingEditor>sammy_herring@revisionupdates.info (Sammy Herring)</managingEditor>
+	<webMaster>sammy_herring@revisionupdates.info (Sammy Herring)</webMaster>
 	<copyright>Copyright 2015, Revision Updates.</copyright>
-	<pubDate>Thu, 16 Jul 2015 20:00:00 GMT</pubDate>
-	<lastBuildDate>Thu, 16 Jul 2015 22:00:00 GMT</lastBuildDate>
+	<pubDate>Fri, 17 Jul 2015 13:55:49 GMT</pubDate>
+	<lastBuildDate>Fri, 17 Jul 2015 17:00:49 GMT</lastBuildDate>
 	<category>Further Mathematics</category>
 	<docs>http://blogs.law.harvard.edu/tech/rss/</docs>
+	<image>
+    	<url>http://revisionupdates.info/images/favicons/favicon-144.png</url>
+		<title>Revision Updates - Further Mathematics</title>
+		<link>http://revisionupdates.info/course/articles/further-mathematics/</link>
+		<width>144</width>
+		<height>144</height>
+		<description>Revision Updates Icon</description>
+  	</image>
 	<item>
 		<title>
 			Announcement
@@ -33,15 +41,20 @@
 			Graphical Calculator - Introduction
 		</title>
 		<link>
-			http://revisionupdates.info/course/posts/articles/further-mathematics/index.php
+			http://revisionupdates.info/course/posts/articles/further-mathematics/graphical-calculator-introduction.php
 		</link>
 		<guid>
 			http://revisionupdates.info/course/posts/articles/further-mathematics/graphical-calculator-introduction.php
 		</guid>
+		<image>
+    		<url>http://revisionupdates.info/course/posts/images/fmathematics_small.jpg</url>
+			<title>Revision Updates - Further Mathematics</title>
+			<link>http://revisionupdates.info/course/articles/further-mathematics/</link>
+		</image>
 		<description>
 			Have you managed to have a play with a graphical calculator yet? Well, if not, then we would highly recommend getting your hands on one. On these little gizmos, you could do anything from drawing a flower graphically to programming a quadratic formula solver.
 		</description>
-		<pubDate>Thu, 16 Jul 2015 20:00:00 GMT</pubDate>
+		<pubDate>Fri, 17 Jul 2015 16:00:00 GMT</pubDate>
 	</item>
 </channel>
 </rss>
