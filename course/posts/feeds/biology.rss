@@ -2,13 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
 	<title>Revision Updates - Biology</title>
-	<link>http://revisionupdates.info/course/posts/articles/biology.php</link>
+	<link>http://revisionupdates.info/course/posts/articles/biology/index.php</link>
 	<atom:link href="http://revisionupdates.info/course/posts/feeds/biology.rss" rel="self" type="application/rss+xml" />
 	<description>As apart of our core education package we support Biology A-Level. Currently, our resources are aimed at the OCR A Biology specification.</description>
 	<language>en-UK</language>
+	<managingEditor>sammy_herring@revisionupdates.info</managingEditor>
+	<webMaster>sammy_herring@revisionupdates.info</webMaster>
 	<copyright>Copyright 2015, Revision Updates.</copyright>
 	<pubDate>Wed, 15 Jul 2015 13:55:49 GMT</pubDate>
-	<lastBuildDate>Wed, 15 Jul 2015 13:55:49 GMT</lastBuildDate>
+	<lastBuildDate>Thu, 16 Jul 2015 22:00:00 GMT</lastBuildDate>
 	<category>Biology</category>
 	<docs>http://blogs.law.harvard.edu/tech/rss/</docs>
 	<item>
@@ -16,10 +18,10 @@
 			Announcement
 		</title>
 		<link>
-			http://revisionupdates.info/course/posts/articles/biology.php
+			http://revisionupdates.info/course/posts/articles/biology/index.php
 		</link>
 		<guid>
-			http://revisionupdates.info/course/posts/articles/biology.php
+			http://revisionupdates.info/course/posts/articles/biology/index.php
 		</guid>
 		<description>
 			Just to let you know, we will be publishing Revision Updates A-Level Edition officially as apart of our public release on the 27th August 2015 (although we will start adding people from the 20th). As apart of the release with v2.0 revision updates we will be offering a new standard of resources that are specifically designed for all of your A-Level needs. We have an ever-expanding database of resources that we will be making available from day one.		</description>

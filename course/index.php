@@ -1,4 +1,6 @@
 <?php
+	$Page_Parent = 'view_posts';
+	$Nav_Alt = 'yes';
 	$Page_MetaID = 'course';
 ?>
 <!DOCTYPE HTML>
@@ -14,50 +16,7 @@
 	</head>
 	<body class="landing">
 		<div id="page-wrapper">
-
-			<!-- Header -->
-				<header id="header" class="alt">
-					<h1><a href="index.php">RU iTunes U</a> by Revision Updates</h1>
-					<nav id="nav">
-						<ul>
-							<li><a href="#page-wrapper">Welcome</a></li>
-							<li>
-								<a class="icon fa-angle-down">Resources</a>
-								<ul>
-									<li><a href="http://revisionupdates.info/releases">RU Releases</a></li>
-									<li><a href="http://revisionupdates.info/ru-digi">RU Digi</a></li>
-									<li><a href="http://revisionupdates.info/ambassadors">Ambassadors</a></li>
-									<li><a href="http://revisionupdates.info/itunesu">iTunes U Download</a></li>
-									<li>
-										<a href="http://revisionupdates.info/course/posts">Posts</a>
-										<ul>
-										<li><a href="http://revisionupdates.info/course/posts/articles/biology.php">Biology</a></li>
-										<li><a href="http://revisionupdates.info/course/posts/articles/chemistry.php">Chemistry</a></li>
-										<li><a href="http://revisionupdates.info/course/posts/articles/physics.php">Physics</a></li>
-										<li><a href="http://revisionupdates.info/course/posts/articles/mathematics.php">Mathematics</a></li>
-										<li><a href="http://revisionupdates.info/course/posts/articles/further-mathematics.php">Further Mathematics</a></li>
-										<li><a href="http://revisionupdates.info/course/posts/articles/computing.php">Computing</a></li>
-										<li><a href="http://revisionupdates.info/course/posts/articles/english-literature.php">English Literature</a></li>
-										<li><a href="http://revisionupdates.info/course/posts/articles/forensics.php">Forensics</a></li>
-										<li><a href="http://revisionupdates.info/course/posts/articles/french.php">French</a></li>
-										<li><a href="http://revisionupdates.info/course/posts/articles/geography.php">Geography</a></li>
-										<li><a href="http://revisionupdates.info/course/posts/articles/history.php">History</a></li>
-										</ul>
-									</li>
-									<li>
-										<a>Admin</a>
-										<ul>
-											<li><a href="http://revisionupdates.info/admin">Slack</a></li>
-											<li><a href="http://ru.sammyherring.co.uk">Calendar</a></li>
-										</ul>
-									</li>
-								</ul>
-							</li>
-							<li><a href="http://revisionupdates.info/course/posts" class="button">View Posts</a></li>
-						</ul>
-					</nav>
-				</header>
-
+			<?php include('../includes/header.php'); ?>
 			<!-- Banner -->
 				<section id="banner">
 					<h2>RU iTunes U</h2>
@@ -112,38 +71,7 @@
 							</section>
 						</div>
 					</section>
-
-					<div class="row">
-						<div class="6u 12u(narrower)">
-
-							<section class="box special">
-								<span class="image featured"><img src="images/pic02.jpg" alt="" /></span>
-								<h3>RU Releases</h3>
-								<p>
-									Our largest learning resource with over 50 GB of data. With a student-centric focus, we cover multiple subjects aimed at both GCSE and A-Level (GCE) students.
-								</p>
-								<ul class="actions">
-									<li><a href="http://revisionupdates.info/releases" class="button alt">Learn More</a></li>
-								</ul>
-							</section>
-
-						</div>
-						<div class="6u 12u(narrower)">
-
-							<section class="box special">
-								<span class="image featured"><img src="images/pic03.jpg" alt="" /></span>
-								<h3>RU Digi</h3>
-								<p>
-									Yet another of Revision Updates innovative resources. A cloud based calendar system, where we track and monitor all revision sessions for your convenience.
-								</p>
-								<ul class="actions">
-									<li><a href="http://revisionupdates.info/ru-digi/" class="button alt">Learn More</a></li>
-								</ul>
-							</section>
-
-						</div>
-					</div>
-
+					<?php include('../includes/article_ad.php'); ?>
 				</section>
 
 			<!-- CTA -->

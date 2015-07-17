@@ -1,7 +1,8 @@
 <?php
 	$Page_MetaID = 'course';
+	$Page_Parent = 'course';
 	$Course_Lead_AuthorID = '1';
-	$Course_Date = '15th July 2015'
+	$Course_Date = '16th July 2015';
 ?>
 <!DOCTYPE HTML>
 <html>
@@ -16,50 +17,7 @@
 	</head>
 	<body>
 		<div id="page-wrapper">
-
-			<!-- Header -->
-				<header id="header">
-					<h1><a href="index.php">RU iTunes U</a> by Revision Updates</h1>
-					<nav id="nav">
-						<ul>
-							<li><a href="#page-wrapper">Welcome</a></li>
-							<li>
-								<a class="icon fa-angle-down">Resources</a>
-								<ul>
-									<li><a href="http://revisionupdates.info/releases">RU Releases</a></li>
-									<li><a href="http://revisionupdates.info/ru-digi">RU Digi</a></li>
-									<li><a href="http://revisionupdates.info/ambassadors">Ambassadors</a></li>
-									<li><a href="http://revisionupdates.info/itunesu">iTunes U Download</a></li>
-									<li>
-										<a href="http://revisionupdates.info/course/posts">Posts</a>
-										<ul>
-										<li><a href="http://revisionupdates.info/course/posts/articles/biology.php">Biology</a></li>
-										<li><a href="http://revisionupdates.info/course/posts/articles/chemistry.php">Chemistry</a></li>
-										<li><a href="http://revisionupdates.info/course/posts/articles/physics.php">Physics</a></li>
-										<li><a href="http://revisionupdates.info/course/posts/articles/mathematics.php">Mathematics</a></li>
-										<li><a href="http://revisionupdates.info/course/posts/articles/further-mathematics.php">Further Mathematics</a></li>
-										<li><a href="http://revisionupdates.info/course/posts/articles/computing.php">Computing</a></li>
-										<li><a href="http://revisionupdates.info/course/posts/articles/english-literature.php">English Literature</a></li>
-										<li><a href="http://revisionupdates.info/course/posts/articles/forensics.php">Forensics</a></li>
-										<li><a href="http://revisionupdates.info/course/posts/articles/french.php">French</a></li>
-										<li><a href="http://revisionupdates.info/course/posts/articles/geography.php">Geography</a></li>
-										<li><a href="http://revisionupdates.info/course/posts/articles/history.php">History</a></li>
-										</ul>
-									</li>
-									<li>
-										<a>Admin</a>
-										<ul>
-											<li><a href="http://revisionupdates.info/admin">Slack</a></li>
-											<li><a href="http://ru.sammyherring.co.uk">Calendar</a></li>
-										</ul>
-									</li>
-								</ul>
-							</li>
-							<li><a href="http://revisionupdates.info/course" class="button">Go Back</a></li>
-						</ul>
-					</nav>
-				</header>
-
+			<?php include('../../includes/header.php'); ?>
 			<!-- Main -->
 				<section id="main" class="container">
 					<header>
@@ -84,17 +42,17 @@ If you would like to see any more information regarding the iTunes U course plea
 								<h3>Supported Courses</h3>
 								<p>
 									<ul>
-										<li><a href="http://revisionupdates.info/course/posts/articles/biology.php">Biology A (OCR) (GCE)</a></li>
-										<li><a href="http://revisionupdates.info/course/posts/articles/chemistry.php">Chemistry B (Salters) (OCR) (GCE)</a></li>
-										<li><a href="http://revisionupdates.info/course/posts/articles/physics.php">Physics A (OCR) (GCE)</a></li>
-										<li><a href="http://revisionupdates.info/course/posts/articles/mathematics.php">Mathematics (Edexcel) (GCE)</a></li>
-										<li><a href="http://revisionupdates.info/course/posts/articles/further-mathematics.php">Further Mathematics (Edexcel) (GCE)</a></li>
-										<li><a href="http://revisionupdates.info/course/posts/articles/computing.php">Computing (OCR) (GCE)</a></li>
-										<li><a href="http://revisionupdates.info/course/posts/articles/english-literature.php">English Literature (GCE)</a></li>
-										<li><a href="http://revisionupdates.info/course/posts/articles/forensics.php">Forensics (OCR) (GCE)</a></li>
-										<li><a href="http://revisionupdates.info/course/posts/articles/french.php">French (GCE)</a></li>
-										<li><a href="http://revisionupdates.info/course/posts/articles/geography.php">Geography (GCE)</a></li>
-										<li><a href="http://revisionupdates.info/course/posts/articles/history.php">History (GCE)</a></li>
+										<li><a href="http://revisionupdates.info/course/posts/articles/biology/">Biology A (OCR) (GCE)</a></li>
+										<li><a href="http://revisionupdates.info/course/posts/articles/chemistry/">Chemistry B (Salters) (OCR) (GCE)</a></li>
+										<li><a href="http://revisionupdates.info/course/posts/articles/physics/">Physics A (OCR) (GCE)</a></li>
+										<li><a href="http://revisionupdates.info/course/posts/articles/mathematics/">Mathematics (Edexcel) (GCE)</a></li>
+										<li><a href="http://revisionupdates.info/course/posts/articles/further-mathematics/">Further Mathematics (Edexcel) (GCE)</a></li>
+										<li><a href="http://revisionupdates.info/course/posts/articles/computing/">Computing (OCR) (GCE)</a></li>
+										<li><a href="http://revisionupdates.info/course/posts/articles/english-literature/">English Literature (GCE)</a></li>
+										<li><a href="http://revisionupdates.info/course/posts/articles/forensics/">Forensics (OCR) (GCE)</a></li>
+										<li><a href="http://revisionupdates.info/course/posts/articles/french/">French (GCE)</a></li>
+										<li><a href="http://revisionupdates.info/course/posts/articles/geography/">Geography (GCE)</a></li>
+										<li><a href="http://revisionupdates.info/course/posts/articles/history/">History (GCE)</a></li>
 									</ul>
 								</p>
 							</div>
@@ -120,7 +78,7 @@ If you would like to see any more information regarding the iTunes U course plea
 									As apart of our core education package we support Biology A-Level. Currently, our resources are aimed at the OCR A Biology specification.
 								</p>
 								<ul class="actions">
-									<li><a href="http://revisionupdates.info/course/posts/articles/biology.php" class="button alt">Learn More</a></li>
+									<li><a href="http://revisionupdates.info/course/posts/articles/biology/" class="button alt">Learn More</a></li>
 								</ul>
 							</section>
 
@@ -133,7 +91,7 @@ If you would like to see any more information regarding the iTunes U course plea
 								<p>
 									In our new Revision Updates core education package for A-Level we are currently supporting OCR B Salters from day one.								</p>
 								<ul class="actions">
-									<li><a href="http://revisionupdates.info/course/posts/articles/chemistry.php" class="button alt">Learn More</a></li>
+									<li><a href="http://revisionupdates.info/course/posts/articles/chemistry/" class="button alt">Learn More</a></li>
 								</ul>
 							</section>
 
@@ -150,7 +108,7 @@ If you would like to see any more information regarding the iTunes U course plea
 									Our largest learning resource with over 50 GB of data. With a student-centric focus, we cover multiple subjects aimed at both GCSE and A-Level (GCE) students.
 								</p>
 								<ul class="actions">
-									<li><a href="http://revisionupdates.info/course/posts/articles/physics.php" class="button alt">Learn More</a></li>
+									<li><a href="http://revisionupdates.info/course/posts/articles/physics/" class="button alt">Learn More</a></li>
 								</ul>
 							</section>
 
@@ -164,7 +122,7 @@ If you would like to see any more information regarding the iTunes U course plea
 									Yet another of Revision Updates innovative resources. A cloud based calendar system, where we track and monitor all revision sessions for your convenience.
 								</p>
 								<ul class="actions">
-									<li><a href="http://revisionupdates.info/course/posts/articles/mathematics.php" class="button alt">Learn More</a></li>
+									<li><a href="http://revisionupdates.info/course/posts/articles/mathematics/" class="button alt">Learn More</a></li>
 								</ul>
 							</section>
 
@@ -181,7 +139,7 @@ If you would like to see any more information regarding the iTunes U course plea
 									Our largest learning resource with over 50 GB of data. With a student-centric focus, we cover multiple subjects aimed at both GCSE and A-Level (GCE) students.
 								</p>
 								<ul class="actions">
-									<li><a href="http://revisionupdates.info/course/posts/articles/further-mathematics.php" class="button alt">Learn More</a></li>
+									<li><a href="http://revisionupdates.info/course/posts/articles/further-mathematics/" class="button alt">Learn More</a></li>
 								</ul>
 							</section>
 
@@ -195,7 +153,7 @@ If you would like to see any more information regarding the iTunes U course plea
 									Yet another of Revision Updates innovative resources. A cloud based calendar system, where we track and monitor all revision sessions for your convenience.
 								</p>
 								<ul class="actions">
-									<li><a href="http://revisionupdates.info/course/posts/articles/computing.php" class="button alt">Learn More</a></li>
+									<li><a href="http://revisionupdates.info/course/posts/articles/computing/" class="button alt">Learn More</a></li>
 								</ul>
 							</section>
 
@@ -212,7 +170,7 @@ If you would like to see any more information regarding the iTunes U course plea
 									Our largest learning resource with over 50 GB of data. With a student-centric focus, we cover multiple subjects aimed at both GCSE and A-Level (GCE) students.
 								</p>
 								<ul class="actions">
-									<li><a href="http://revisionupdates.info/course/posts/articles/english-literature.php" class="button alt">Learn More</a></li>
+									<li><a href="http://revisionupdates.info/course/posts/articles/english-literature/" class="button alt">Learn More</a></li>
 								</ul>
 							</section>
 
@@ -226,7 +184,7 @@ If you would like to see any more information regarding the iTunes U course plea
 									Yet another of Revision Updates innovative resources. A cloud based calendar system, where we track and monitor all revision sessions for your convenience.
 								</p>
 								<ul class="actions">
-									<li><a href="http://revisionupdates.info/course/posts/articles/forensics.php" class="button alt">Learn More</a></li>
+									<li><a href="http://revisionupdates.info/course/posts/articles/forensics/" class="button alt">Learn More</a></li>
 								</ul>
 							</section>
 
@@ -243,7 +201,7 @@ If you would like to see any more information regarding the iTunes U course plea
 									Our largest learning resource with over 50 GB of data. With a student-centric focus, we cover multiple subjects aimed at both GCSE and A-Level (GCE) students.
 								</p>
 								<ul class="actions">
-									<li><a href="http://revisionupdates.info/course/posts/articles/french.php" class="button alt">Learn More</a></li>
+									<li><a href="http://revisionupdates.info/course/posts/articles/french/" class="button alt">Learn More</a></li>
 								</ul>
 							</section>
 
@@ -257,7 +215,7 @@ If you would like to see any more information regarding the iTunes U course plea
 									Yet another of Revision Updates innovative resources. A cloud based calendar system, where we track and monitor all revision sessions for your convenience.
 								</p>
 								<ul class="actions">
-									<li><a href="http://revisionupdates.info/course/posts/articles/geography.php" class="button alt">Learn More</a></li>
+									<li><a href="http://revisionupdates.info/course/posts/articles/geography/" class="button alt">Learn More</a></li>
 								</ul>
 							</section>
 
@@ -274,7 +232,7 @@ If you would like to see any more information regarding the iTunes U course plea
 									Our largest learning resource with over 50 GB of data. With a student-centric focus, we cover multiple subjects aimed at both GCSE and A-Level (GCE) students.
 								</p>
 								<ul class="actions">
-									<li><a href="http://revisionupdates.info/course/posts/articles/history.php" class="button alt">Learn More</a></li>
+									<li><a href="http://revisionupdates.info/course/posts/articles/history/" class="button alt">Learn More</a></li>
 								</ul>
 							</section>
 
