@@ -43,7 +43,21 @@
 						<p>
 							<span class="image left"><img src="http://revisionupdates.info/course/posts/articles/images/icons/<?php echo $Course_Icon; ?>.png" alt="" /></span>Just to let you know, we will be publishing Revision Updates A-Level Edition officially as apart of our <strong>public release</strong> on the 27th August 2015 (although we will start adding people from the 20th). As apart of the release with v2.0 revision updates we will be offering a new standard of resources that are specifically designed for all of your A-Level needs. We have an ever-expanding database of resources that we will be making available from day one.
 						</p>
-
+					</div>
+					<div class="box">
+						<?php
+							$Article_1_Title = "Initial Assignment";
+							$Article_1_Publishing_Date = "18th July 2015";
+							$Article_1_Permalink = "http://revisionupdates.info/course/posts/articles/chemistry/initial-assignment.php";
+						?>
+						<header>
+						<h3><a href="<?php echo $Article_1_Permalink; ?>"><?php echo $Article_1_Title; ?></a></h3>
+						<hp>Published: <?php echo $Article_1_Publishing_Date; ?></hp>
+						</header>
+						<p>
+							So, over the summer holidays you have been asked to complete a course in preparation...							<br></br>
+							<a href="<?php echo $Article_1_Permalink; ?>" class="button special small">Read More</a>
+						</p>
 					</div>
 					<?php include '../../../../includes/article_ad.php'; ?>
 					<?php include '../../../../includes/article_author.php'; ?>
