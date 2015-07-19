@@ -6,134 +6,205 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <url>
   <loc>http://revisionupdates.info/</loc>
-  <lastmod>2015-07-15T11:34:32+00:00</lastmod>
+  <lastmod>2015-07-19T12:34:27+00:00</lastmod>
   <changefreq>always</changefreq>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>http://revisionupdates.info/ru-digi/</loc>
-  <lastmod>2015-07-15T11:34:32+00:00</lastmod>
+  <lastmod>2015-07-19T12:34:27+00:00</lastmod>
   <changefreq>always</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://revisionupdates.info/course/</loc>
-  <lastmod>2015-07-15T11:34:32+00:00</lastmod>
+  <lastmod>2015-07-19T12:34:27+00:00</lastmod>
   <changefreq>always</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://revisionupdates.info/cpanel</loc>
-  <lastmod>2015-07-15T11:34:32+00:00</lastmod>
+  <lastmod>2015-07-19T12:34:27+00:00</lastmod>
   <changefreq>always</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://revisionupdates.info/webmail</loc>
-  <lastmod>2015-07-15T11:34:32+00:00</lastmod>
+  <lastmod>2015-07-19T12:34:27+00:00</lastmod>
   <changefreq>always</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://revisionupdates.info/ru-digi/index.php</loc>
-  <lastmod>2015-07-15T11:34:32+00:00</lastmod>
-  <changefreq>always</changefreq>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://revisionupdates.info/course/posts/articles/biology.php</loc>
-  <lastmod>2015-07-15T11:34:32+00:00</lastmod>
-  <changefreq>always</changefreq>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://revisionupdates.info/course/posts/articles/chemistry.php</loc>
-  <lastmod>2015-07-15T11:34:32+00:00</lastmod>
-  <changefreq>always</changefreq>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://revisionupdates.info/course/posts/articles/physics.php</loc>
-  <lastmod>2015-07-15T11:34:32+00:00</lastmod>
-  <changefreq>always</changefreq>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://revisionupdates.info/course/posts/articles/mathematics.php</loc>
-  <lastmod>2015-07-15T11:34:32+00:00</lastmod>
-  <changefreq>always</changefreq>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://revisionupdates.info/course/posts/articles/further-mathematics.php</loc>
-  <lastmod>2015-07-15T11:34:32+00:00</lastmod>
-  <changefreq>always</changefreq>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://revisionupdates.info/course/posts/articles/computing.php</loc>
-  <lastmod>2015-07-15T11:34:32+00:00</lastmod>
-  <changefreq>always</changefreq>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://revisionupdates.info/course/posts/articles/english-literature.php</loc>
-  <lastmod>2015-07-15T11:34:32+00:00</lastmod>
-  <changefreq>always</changefreq>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://revisionupdates.info/course/posts/articles/forensics.php</loc>
-  <lastmod>2015-07-15T11:34:32+00:00</lastmod>
-  <changefreq>always</changefreq>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://revisionupdates.info/course/posts/articles/french.php</loc>
-  <lastmod>2015-07-15T11:34:32+00:00</lastmod>
-  <changefreq>always</changefreq>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://revisionupdates.info/course/posts/articles/geography.php</loc>
-  <lastmod>2015-07-15T11:34:32+00:00</lastmod>
-  <changefreq>always</changefreq>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://revisionupdates.info/course/posts/articles/history.php</loc>
-  <lastmod>2015-07-15T11:34:32+00:00</lastmod>
+  <lastmod>2015-07-19T12:34:27+00:00</lastmod>
   <changefreq>always</changefreq>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>http://revisionupdates.info/course/posts/</loc>
-  <lastmod>2015-07-15T11:34:32+00:00</lastmod>
+  <lastmod>2015-07-19T12:34:27+00:00</lastmod>
   <changefreq>always</changefreq>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://revisionupdates.info/course/index.php</loc>
-  <lastmod>2015-07-15T11:34:32+00:00</lastmod>
+  <loc>http://revisionupdates.info/ambassadors/</loc>
+  <lastmod>2015-07-19T12:34:27+00:00</lastmod>
   <changefreq>always</changefreq>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://revisionupdates.info/course/posts/index.php</loc>
-  <lastmod>2015-07-15T11:34:32+00:00</lastmod>
+  <loc>http://revisionupdates.info/course/posts/articles/biology/</loc>
+  <lastmod>2015-07-19T12:34:27+00:00</lastmod>
   <changefreq>always</changefreq>
-  <priority>0.51</priority>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://revisionupdates.info/course/posts/articles/chemistry/</loc>
+  <lastmod>2015-07-19T12:34:27+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://revisionupdates.info/course/posts/articles/physics/</loc>
+  <lastmod>2015-07-19T12:34:27+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://revisionupdates.info/course/posts/articles/mathematics/</loc>
+  <lastmod>2015-07-19T12:34:27+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://revisionupdates.info/course/posts/articles/further-mathematics/</loc>
+  <lastmod>2015-07-19T12:34:27+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://revisionupdates.info/course/posts/articles/computing/</loc>
+  <lastmod>2015-07-19T12:34:27+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://revisionupdates.info/course/posts/articles/english-literature/</loc>
+  <lastmod>2015-07-19T12:34:27+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://revisionupdates.info/course/posts/articles/forensics/</loc>
+  <lastmod>2015-07-19T12:34:27+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://revisionupdates.info/course/posts/articles/french/</loc>
+  <lastmod>2015-07-19T12:34:27+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://revisionupdates.info/course/posts/articles/geography/</loc>
+  <lastmod>2015-07-19T12:34:27+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://revisionupdates.info/course/posts/articles/history/</loc>
+  <lastmod>2015-07-19T12:34:27+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>http://revisionupdates.info/course/posts/articles/ambassadors_leaflet.php</loc>
-  <lastmod>2015-07-15T11:34:32+00:00</lastmod>
+  <lastmod>2015-07-19T12:34:27+00:00</lastmod>
   <changefreq>always</changefreq>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>http://revisionupdates.info/course/posts/articles/index.php</loc>
-  <lastmod>2015-07-15T11:34:32+00:00</lastmod>
+  <loc>http://revisionupdates.info/course/posts/articles/biology/index.php</loc>
+  <lastmod>2015-07-19T12:34:27+00:00</lastmod>
   <changefreq>always</changefreq>
-  <priority>0.41</priority>
+  <priority>0.51</priority>
 </url>
-</urlset>
+<url>
+  <loc>http://revisionupdates.info/course/posts/articles/chemistry/index.php</loc>
+  <lastmod>2015-07-19T12:34:27+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://revisionupdates.info/course/posts/articles/chemistry/initial-assignment.php</loc>
+  <lastmod>2015-07-19T12:34:27+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://revisionupdates.info/course/posts/articles/physics/index.php</loc>
+  <lastmod>2015-07-19T12:34:27+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://revisionupdates.info/course/posts/articles/physics/your-first-practical-assessment.php</loc>
+  <lastmod>2015-07-19T12:34:27+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://revisionupdates.info/course/posts/articles/mathematics/index.php</loc>
+  <lastmod>2015-07-19T12:34:27+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://revisionupdates.info/course/posts/articles/further-mathematics/index.php</loc>
+  <lastmod>2015-07-19T12:34:27+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://revisionupdates.info/course/posts/articles/further-mathematics/graphical-calculator-introduction.php</loc>
+  <lastmod>2015-07-19T12:34:27+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://revisionupdates.info/course/posts/articles/computing/index.php</loc>
+  <lastmod>2015-07-19T12:34:27+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://revisionupdates.info/course/posts/articles/english-literature/index.php</loc>
+  <lastmod>2015-07-19T12:34:27+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://revisionupdates.info/course/posts/articles/forensics/index.php</loc>
+  <lastmod>2015-07-19T12:34:27+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://revisionupdates.info/course/posts/articles/french/index.php</loc>
+  <lastmod>2015-07-19T12:34:27+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://revisionupdates.info/course/posts/articles/geography/index.php</loc>
+  <lastmod>2015-07-19T12:34:27+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://revisionupdates.info/course/posts/articles/history/index.php</loc>
+  <lastmod>2015-07-19T12:34:27+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.51</priority>
+</url></urlset>

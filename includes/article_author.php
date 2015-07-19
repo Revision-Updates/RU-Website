@@ -5,7 +5,7 @@
 						</header>
 						<p>
 							<span class="image left"><img src="http://revisionupdates.info/course/posts/articles/images/icons/<?php echo $Course_Author_Icon; ?>.png" alt="" /></span><?php echo $Course_Author_Bio; ?>
-					<ul class="icons">
+					<ul class="author">
 						<?php
 							If ($Course_Author_Facebook != "") {
 								?> <li><a href="<?php echo $Course_Author_Facebook; ?>" class="icon fa-facebook"><span class="label">Facebook</span></a></li><?php
@@ -55,7 +55,7 @@
 						</header>
 						<p>
 							<span class="image right"><img src="http://revisionupdates.info/course/posts/articles/images/icons/<?php echo $Course_Sub_Author_Icon; ?>.png" alt="" /></span><?php echo $Course_Sub_Author_Bio; ?>
-					<ul class="icons" class="align-right">
+					<ul class="author" class="align-right">
 						<?php
 							If ($Course_Sub_Author_Facebook != "") {
 								?> <li><a href="<?php echo $Course_Sub_Author_Facebook; ?>" class="icon fa-facebook"><span class="label">Facebook</span></a></li><?php

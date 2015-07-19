@@ -66,7 +66,7 @@ Of course, there are lots of other functions on the calculator such as programmi
 							<section class="box special">
 								<h3>Programming Tutorial - Part 1</h3>
 								<p>Programming Tutorial with Casio Graphing Calculators (Part 1) - Inputs and Outputs</p>
-									<iframe width="340" height="260" src="https://www.youtube.com/embed/P6MdmW-coXM?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+									<iframe width="340" height="260" align="center" src="https://www.youtube.com/embed/P6MdmW-coXM?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 							</section>
 
 						</div>
@@ -75,7 +75,7 @@ Of course, there are lots of other functions on the calculator such as programmi
 							<section class="box special">
 								<h3>Programming Tutorial - Part 2</h3>
 								<p>Programming Tutorial with Casio Graphing Calculators (Part 2) - Conditional Statements and Loops</p>
-									<iframe width="340" height="260" src="https://www.youtube.com/embed/uOSJK_14384?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+									<iframe width="340" height="260" align="center" src="https://www.youtube.com/embed/uOSJK_14384?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 							</section>
 
 						</div>
