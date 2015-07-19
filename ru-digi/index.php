@@ -29,20 +29,21 @@
 								<ul>
 									<li><a href="http://revisionupdates.info/releases">RU Releases <span class="icon fa-dropbox"></span></a></li>
 									<li><a href="http://revisionupdates.info/ambassadors">Ambassadors <span class="icon fa-slack"></span></a></li>
+									<li><a href="http://revisionupdates.info/itunesu/">iTunes U Download <span class="icon fa-university"></span></a></li>
 									<li class="submenu">
-										<a href="http://revisionupdates.info/course">RU iTunes U <span class="icon fa-book"></a>
+										<a href="http://revisionupdates.info/course/posts/">Posts <span class="icon fa-book"></a>
 										<ul>
-										<li><a href="http://revisionupdates.info/course/posts/articles/biology.php">Biology</a></li>
-										<li><a href="http://revisionupdates.info/course/posts/articles/chemistry.php">Chemistry</a></li>
-										<li><a href="http://revisionupdates.info/course/posts/articles/physics.php">Physics</a></li>
-										<li><a href="http://revisionupdates.info/course/posts/articles/mathematics.php">Mathematics</a></li>
-										<li><a href="http://revisionupdates.info/course/posts/articles/further-mathematics.php">Further Mathematics</a></li>
-										<li><a href="http://revisionupdates.info/course/posts/articles/computing.php">Computing</a></li>
-										<li><a href="http://revisionupdates.info/course/posts/articles/english-literature.php">English Literature</a></li>
-										<li><a href="http://revisionupdates.info/course/posts/articles/forensics.php">Forensics</a></li>
-										<li><a href="http://revisionupdates.info/course/posts/articles/french.php">French</a></li>
-										<li><a href="http://revisionupdates.info/course/posts/articles/geography.php">Geography</a></li>
-										<li><a href="http://revisionupdates.info/course/posts/articles/history.php">History</a></li>
+										<li><a href="http://revisionupdates.info/course/posts/articles/biology/">Biology</a></li>
+										<li><a href="http://revisionupdates.info/course/posts/articles/chemistry/">Chemistry</a></li>
+										<li><a href="http://revisionupdates.info/course/posts/articles/physics/">Physics</a></li>
+										<li><a href="http://revisionupdates.info/course/posts/articles/mathematics/">Mathematics</a></li>
+										<li><a href="http://revisionupdates.info/course/posts/articles/further-mathematics/">Further Mathematics</a></li>
+										<li><a href="http://revisionupdates.info/course/posts/articles/computing/">Computing</a></li>
+										<li><a href="http://revisionupdates.info/course/posts/articles/english-literature/">English Literature</a></li>
+										<li><a href="http://revisionupdates.info/course/posts/articles/forensics/">Forensics</a></li>
+										<li><a href="http://revisionupdates.info/course/posts/articles/french/">French</a></li>
+										<li><a href="http://revisionupdates.info/course/posts/articles/geography/">Geography</a></li>
+										<li><a href="http://revisionupdates.info/course/posts/articles/history/">History</a></li>
 										</ul>
 									</li>
 									<li class="submenu">
