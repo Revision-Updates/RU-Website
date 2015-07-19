@@ -11,6 +11,41 @@
 		font: inherit;
 		vertical-align: baseline;
 	}
+	.author a {
+			-moz-transition: opacity 0.2s ease-in-out;
+			-webkit-transition: opacity 0.2s ease-in-out;
+			-ms-transition: opacity 0.2s ease-in-out;
+			transition: opacity 0.2s ease-in-out;
+			opacity: 1.0;
+	}
+
+		.author a:hover {
+				opacity: 0.75;
+		}
+		
+		ul.author {
+			cursor: default;
+			list-style: none;
+			padding-left: 0;
+		}
+
+			ul.author li {
+				display: inline-block;
+				padding: 0 1.25em 0 0;
+			}
+
+				ul.author li:last-child {
+					padding-right: 0;
+				}
+
+				ul.author li .icon {
+					color: inherit;
+				}
+
+					ul.author li .icon:before {
+						font-size: 1.75em;
+					}
+
 
 	.icon.rss {
 		text-decoration: none;

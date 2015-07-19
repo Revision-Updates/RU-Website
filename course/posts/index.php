@@ -48,11 +48,11 @@ If you would like to see any more information regarding the iTunes U course plea
 										<li><a href="http://revisionupdates.info/course/posts/articles/mathematics/">Mathematics (Edexcel) (GCE)</a></li>
 										<li><a href="http://revisionupdates.info/course/posts/articles/further-mathematics/">Further Mathematics (Edexcel) (GCE)</a></li>
 										<li><a href="http://revisionupdates.info/course/posts/articles/computing/">Computing (OCR) (GCE)</a></li>
-										<li><a href="http://revisionupdates.info/course/posts/articles/english-literature/">English Literature (GCE)</a></li>
+										<li><a href="http://revisionupdates.info/course/posts/articles/english-literature/">English Literature B (AQA) (GCE)</a></li>
 										<li><a href="http://revisionupdates.info/course/posts/articles/forensics/">Forensics (OCR) (GCE)</a></li>
-										<li><a href="http://revisionupdates.info/course/posts/articles/french/">French (GCE)</a></li>
-										<li><a href="http://revisionupdates.info/course/posts/articles/geography/">Geography (GCE)</a></li>
-										<li><a href="http://revisionupdates.info/course/posts/articles/history/">History (GCE)</a></li>
+										<li><a href="http://revisionupdates.info/course/posts/articles/french/">French (Edexcel) (GCE)</a></li>
+										<li><a href="http://revisionupdates.info/course/posts/articles/geography/">Geography (Edexcel) (GCE)</a></li>
+										<li><a href="http://revisionupdates.info/course/posts/articles/history/">History (Edexcel) (GCE)</a></li>
 									</ul>
 								</p>
 							</div>
