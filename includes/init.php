@@ -46,13 +46,29 @@ include($_SERVER['DOCUMENT_ROOT']."/includes/tracking_info.php");
 			$Course_Author_Link = '';
 			$Course_Author_Email = 'ben_millbourne@revisionupdates.info';
 			$Course_Author_Icon = 'bm_icon';
-			$Course_Author_Bio = 'Hello, I am currently a Sixth Form student at Homewood School & Sixth Form Centre where I am studying <a href="http://revisionupdates.info/course/posts/articles/biology/">Biology</a>, <a href="http://revisionupdates.info/course/posts/articles/chemistry/">Chemistry</a> and <a href="http://revisionupdates.info/course/posts/articles/forensics/">Forensics</a>. In addition to this, I am also mentoring students in KS3 and working as a Learning Support Assistant (LSA). I will be working towards certification to become a trained Learning Support Assistant which could lead to a teaching role later in life. I am an administrator for a revision group, set up by a colleague, which supports students who want to achieve the highest grade they can; we also offer <a href="http://revisionupdates.info/course">iTunes U course</a> to assist further with this. ';
+			$Course_Author_Bio = 'Hello, I am currently a Sixth Form student at Homewood School & Sixth Form Centre where I am studying <a href="http://revisionupdates.info/course/posts/articles/biology/">Biology</a>, <a href="http://revisionupdates.info/course/posts/articles/chemistry/">Chemistry</a> and <a href="http://revisionupdates.info/course/posts/articles/forensics/">Forensics</a>. In addition to this, I am also mentoring students in KS3 and working as a Learning Support Assistant (LSA). I will be working towards certification to become a trained Learning Support Assistant which could lead to a teaching role later in life. I am an administrator for a revision group, set up by a colleague, which supports students who want to achieve the highest grade they can; we also offer <a href="http://revisionupdates.info/course">iTunes U course</a> to assist further with this.';
 			$Course_Author_Facebook = 'https://www.facebook.com/ben.millbourne';
 			$Course_Author_Twitter = 'https://twitter.com/BMillbourne';
 			$Course_Author_Google = '';
 			$Course_Author_GitHub = '';
 			$Course_Author_LinkedIn = '';
 			$Course_Author_Dropbox = 'http://revisionupdates.info/bm-drop';
+			
+		} elseif($Course_Lead_AuthorID == "4") {
+			#Course Author 4 Settings - Rosie Matthews
+			$Course_Author = 'Rosie Matthews';
+			$Author_Type = 'Lead ';
+			$Author_Prefix = ' - Ambassador';
+			$Course_Author_Link = '';
+			$Course_Author_Email = 'rosie_matthews@revisionupdates.info';
+			$Course_Author_Icon = 'rm_icon';
+			$Course_Author_Bio = 'Hello, I currently attend Homewood School and Sixth Form Centre for my A levels. I am studying <a href="http://revisionupdates.info/course/posts/articles/physics/">Physics</a>, <a href="http://revisionupdates.info/course/posts/articles/mathematics/">Mathematics</a>, <a href="http://revisionupdates.info/course/posts/articles/biology/">Biology</a> and <a href="http://revisionupdates.info/course/posts/articles/english-literature/">English Literature</a>. I am also an ambassador for Revision Updates, a fantastic group set up to help students reach the best of their abilities.';
+			$Course_Author_Facebook = '';
+			$Course_Author_Twitter = 'https://twitter.com/rosiemay2904';
+			$Course_Author_Google = '';
+			$Course_Author_GitHub = '';
+			$Course_Author_LinkedIn = '';
+			$Course_Author_Dropbox = 'http://revisionupdates.info/rm-drop';
 			
 		} else {
 			#Course Author Default Settings - Sammy Herring
@@ -121,6 +137,22 @@ include($_SERVER['DOCUMENT_ROOT']."/includes/tracking_info.php");
 			$Course_Sub_Author_GitHub = '';
 			$Course_Sub_Author_LinkedIn = '';
 			$Course_Sub_Author_Dropbox = 'http://revisionupdates.info/bm-drop';
+			
+		} elseif($Course_Sub_AuthorID == "4") {
+			#Course Sub Author 4 Settings - Rosie Matthews
+			$Course_Sub_Author = 'Rosie Matthews';
+			$Author_Sub_Type = 'Lead ';
+			$Author_Sub_Prefix = ' - Ambassador';
+			$Course_Sub_Author_Link = '';
+			$Course_Sub_Author_Email = 'rosie_matthews@revisionupdates.info';
+			$Course_Sub_Author_Icon = 'rm_icon';
+			$Course_Sub_Author_Bio = 'Hello, I currently attend Homewood School and Sixth Form Centre for my A levels. I am studying <a href="http://revisionupdates.info/course/posts/articles/physics/">Physics</a>, <a href="http://revisionupdates.info/course/posts/articles/mathematics/">Mathematics</a>, <a href="http://revisionupdates.info/course/posts/articles/biology/">Biology</a> and <a href="http://revisionupdates.info/course/posts/articles/english-literature/">English Literature</a>. I am also an ambassador for Revision Updates, a fantastic group set up to help students reach the best of their abilities.';
+			$Course_Sub_Author_Facebook = '';
+			$Course_Sub_Author_Twitter = 'https://twitter.com/rosiemay2904';
+			$Course_Sub_Author_Google = '';
+			$Course_Sub_Author_GitHub = '';
+			$Course_Sub_Author_LinkedIn = '';
+			$Course_Sub_Author_Dropbox = 'http://revisionupdates.info/rm-drop';
 			
 		} else {
 			#Course Sub Author Default Settings - Sammy Herring
