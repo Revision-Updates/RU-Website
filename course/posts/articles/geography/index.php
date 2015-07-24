@@ -6,9 +6,9 @@
 	$Course_Banner = 'geography';
 	$Course_Slug = 'index';
 	$Course_Icon = 'geo';
-	$Course_Date = '15th July 2015';
+	$Course_Date = '23rd July 2015';
 	$Course_Mantra = 'As apart of our core education package we support Biology A-Level. Currently, our resources are aimed at the OCR B Advancing Biology specification.';
-	$Course_Lead_AuthorID = '1';
+	$Course_Lead_AuthorID = '5';
 	$Course_Sub_AuthorID = '';
 ?>
 <!DOCTYPE HTML>

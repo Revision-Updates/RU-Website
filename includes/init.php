@@ -58,17 +58,33 @@ include($_SERVER['DOCUMENT_ROOT']."/includes/tracking_info.php");
 			#Course Author 4 Settings - Rosie Matthews
 			$Course_Author = 'Rosie Matthews';
 			$Author_Type = 'Lead ';
-			$Author_Prefix = ' - Ambassador';
+			$Author_Prefix = ' - Lead Ambassador';
 			$Course_Author_Link = '';
 			$Course_Author_Email = 'rosie_matthews@revisionupdates.info';
 			$Course_Author_Icon = 'rm_icon';
-			$Course_Author_Bio = 'Hello, I currently attend Homewood School and Sixth Form Centre for my A levels. I am studying <a href="http://revisionupdates.info/course/posts/articles/physics/">Physics</a>, <a href="http://revisionupdates.info/course/posts/articles/mathematics/">Mathematics</a>, <a href="http://revisionupdates.info/course/posts/articles/biology/">Biology</a> and <a href="http://revisionupdates.info/course/posts/articles/english-literature/">English Literature</a>. I am also an ambassador for Revision Updates, a fantastic group set up to help students reach the best of their abilities.';
+			$Course_Author_Bio = 'Hello, I currently attend Homewood School and Sixth Form Centre for my A levels. I am studying <a href="http://revisionupdates.info/course/posts/articles/physics/">Physics</a>, <a href="http://revisionupdates.info/course/posts/articles/mathematics/">Mathematics</a>, <a href="http://revisionupdates.info/course/posts/articles/biology/">Biology</a> and <a href="http://revisionupdates.info/course/posts/articles/english-literature/">English Literature</a>. I am also an lead ambassador for Revision Updates, a fantastic group set up to help students reach the best of their abilities.';
 			$Course_Author_Facebook = '';
 			$Course_Author_Twitter = 'https://twitter.com/rosiemay2904';
 			$Course_Author_Google = '';
 			$Course_Author_GitHub = '';
 			$Course_Author_LinkedIn = '';
 			$Course_Author_Dropbox = 'http://revisionupdates.info/rm-drop';
+			
+		} elseif($Course_Lead_AuthorID == "5") {
+			#Course Author 5 Settings - George Capstick
+			$Course_Author = 'George Capstick';
+			$Author_Type = 'Lead ';
+			$Author_Prefix = ' - Lead Ambassador';
+			$Course_Author_Link = '';
+			$Course_Author_Email = 'george_capstick@revisionupdates.info';
+			$Course_Author_Icon = 'gc_icon';
+			$Course_Author_Bio = 'Bio coming soon.';
+			$Course_Author_Facebook = '';
+			$Course_Author_Twitter = 'https://twitter.com/GeorgeCapstick';
+			$Course_Author_Google = '';
+			$Course_Author_GitHub = '';
+			$Course_Author_LinkedIn = '';
+			$Course_Author_Dropbox = '';
 			
 		} else {
 			#Course Author Default Settings - Sammy Herring
@@ -142,17 +158,33 @@ include($_SERVER['DOCUMENT_ROOT']."/includes/tracking_info.php");
 			#Course Sub Author 4 Settings - Rosie Matthews
 			$Course_Sub_Author = 'Rosie Matthews';
 			$Author_Sub_Type = 'Lead ';
-			$Author_Sub_Prefix = ' - Ambassador';
+			$Author_Sub_Prefix = ' - Lead Ambassador';
 			$Course_Sub_Author_Link = '';
 			$Course_Sub_Author_Email = 'rosie_matthews@revisionupdates.info';
 			$Course_Sub_Author_Icon = 'rm_icon';
-			$Course_Sub_Author_Bio = 'Hello, I currently attend Homewood School and Sixth Form Centre for my A levels. I am studying <a href="http://revisionupdates.info/course/posts/articles/physics/">Physics</a>, <a href="http://revisionupdates.info/course/posts/articles/mathematics/">Mathematics</a>, <a href="http://revisionupdates.info/course/posts/articles/biology/">Biology</a> and <a href="http://revisionupdates.info/course/posts/articles/english-literature/">English Literature</a>. I am also an ambassador for Revision Updates, a fantastic group set up to help students reach the best of their abilities.';
+			$Course_Sub_Author_Bio = 'Hello, I currently attend Homewood School and Sixth Form Centre for my A levels. I am studying <a href="http://revisionupdates.info/course/posts/articles/physics/">Physics</a>, <a href="http://revisionupdates.info/course/posts/articles/mathematics/">Mathematics</a>, <a href="http://revisionupdates.info/course/posts/articles/biology/">Biology</a> and <a href="http://revisionupdates.info/course/posts/articles/english-literature/">English Literature</a>. I am also an lead ambassador for Revision Updates, a fantastic group set up to help students reach the best of their abilities.';
 			$Course_Sub_Author_Facebook = '';
 			$Course_Sub_Author_Twitter = 'https://twitter.com/rosiemay2904';
 			$Course_Sub_Author_Google = '';
 			$Course_Sub_Author_GitHub = '';
 			$Course_Sub_Author_LinkedIn = '';
 			$Course_Sub_Author_Dropbox = 'http://revisionupdates.info/rm-drop';
+			
+		} elseif($Course_Sub_AuthorID == "5") {
+			#Course Sub Author 5 Settings - George Capstick
+			$Course_Sub_Author = 'George Capstick';
+			$Author_Sub_Type = 'Lead ';
+			$Author_Sub_Prefix = ' - Lead Ambassador';
+			$Course_Sub_Author_Link = '';
+			$Course_Sub_Author_Email = 'george_capstick@revisionupdates.info';
+			$Course_Sub_Author_Icon = 'gc_icon';
+			$Course_Sub_Author_Bio = 'Bio coming soon.';
+			$Course_Sub_Author_Facebook = '';
+			$Course_Sub_Author_Twitter = 'https://twitter.com/GeorgeCapstick';
+			$Course_Sub_Author_Google = '';
+			$Course_Sub_Author_GitHub = '';
+			$Course_Sub_Author_LinkedIn = '';
+			$Course_Sub_Author_Dropbox = '';
 			
 		} else {
 			#Course Sub Author Default Settings - Sammy Herring
